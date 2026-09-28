@@ -1,0 +1,2642 @@
+time_s,freq_hz,note,meta
+0.000,,,silence_or_unvoiced
+0.010,,,silence_or_unvoiced
+0.020,,,silence_or_unvoiced
+0.030,,,silence_or_unvoiced
+0.040,,,silence_or_unvoiced
+0.050,,,silence_or_unvoiced
+0.060,253.41,B3,conf=0.84 hipass_yin
+0.070,252.97,B3,conf=0.88 hipass_yin
+0.080,253.22,B3,conf=0.88 hipass_yin
+0.090,253.97,B3,conf=0.88 hipass_yin
+0.100,249.35,B3,conf=0.85 hipass_yin
+0.110,250.63,B3,conf=0.87 hipass_yin
+0.120,247.57,B3,conf=0.84 hipass_yin
+0.130,244.50,B3,conf=0.87 hipass_yin
+0.140,249.01,B3,conf=0.82 hipass_yin
+0.150,250.15,B3,conf=0.79 hipass_yin
+0.160,257.30,C4,conf=0.79 hipass_yin
+0.170,259.36,C4,conf=0.83 hipass_yin
+0.180,259.30,C4,conf=0.80 hipass_yin
+0.190,256.60,C4,conf=0.64 hipass_yin
+0.200,,,silence_or_unvoiced
+0.210,,,silence_or_unvoiced
+0.220,,,silence_or_unvoiced
+0.229,213.46,G#3,conf=0.70 hipass_yin
+0.239,214.25,A3,conf=0.74 hipass_yin
+0.249,213.90,A3,conf=0.84 hipass_yin
+0.259,217.12,A3,conf=0.86 hipass_yin
+0.269,217.13,A3,conf=0.86 hipass_yin
+0.279,213.45,G#3,conf=0.86 hipass_yin
+0.289,213.51,G#3,conf=0.87 hipass_yin
+0.299,213.08,G#3,conf=0.87 hipass_yin
+0.309,213.10,G#3,conf=0.86 hipass_yin
+0.319,214.19,A3,conf=0.85 hipass_yin
+0.329,211.29,G#3,conf=0.64 hipass_yin
+0.339,,,silence_or_unvoiced
+0.349,,,silence_or_unvoiced
+0.359,,,silence_or_unvoiced
+0.369,,,silence_or_unvoiced
+0.379,,,silence_or_unvoiced
+0.389,,,silence_or_unvoiced
+0.399,,,silence_or_unvoiced
+0.409,,,silence_or_unvoiced
+0.419,,,silence_or_unvoiced
+0.429,,,silence_or_unvoiced
+0.439,,,silence_or_unvoiced
+0.449,,,silence_or_unvoiced
+0.459,,,silence_or_unvoiced
+0.469,255.81,C4,conf=0.65 hipass_yin
+0.479,,,silence_or_unvoiced
+0.489,,,silence_or_unvoiced
+0.499,,,silence_or_unvoiced
+0.509,244.85,B3,conf=0.61 hipass_yin
+0.519,247.54,B3,conf=0.63 hipass_yin
+0.529,,,silence_or_unvoiced
+0.539,,,silence_or_unvoiced
+0.549,,,silence_or_unvoiced
+0.559,,,silence_or_unvoiced
+0.569,,,silence_or_unvoiced
+0.579,,,silence_or_unvoiced
+0.589,,,silence_or_unvoiced
+0.599,,,silence_or_unvoiced
+0.609,,,silence_or_unvoiced
+0.619,,,silence_or_unvoiced
+0.629,,,silence_or_unvoiced
+0.639,,,silence_or_unvoiced
+0.649,,,silence_or_unvoiced
+0.659,212.48,G#3,conf=0.60 hipass_yin
+0.668,,,silence_or_unvoiced
+0.678,,,silence_or_unvoiced
+0.688,,,silence_or_unvoiced
+0.698,,,silence_or_unvoiced
+0.708,,,silence_or_unvoiced
+0.718,,,silence_or_unvoiced
+0.728,,,silence_or_unvoiced
+0.738,,,silence_or_unvoiced
+0.748,,,silence_or_unvoiced
+0.758,,,silence_or_unvoiced
+0.768,,,silence_or_unvoiced
+0.778,,,silence_or_unvoiced
+0.788,,,silence_or_unvoiced
+0.798,,,silence_or_unvoiced
+0.808,231.21,A#3,conf=0.60 hipass_yin
+0.818,,,silence_or_unvoiced
+0.828,,,silence_or_unvoiced
+0.838,250.15,B3,conf=0.70 hipass_yin
+0.848,250.21,B3,conf=0.72 hipass_yin
+0.858,247.68,B3,conf=0.70 hipass_yin
+0.868,241.33,B3,conf=0.66 hipass_yin
+0.878,242.74,B3,conf=0.63 hipass_yin
+0.888,,,silence_or_unvoiced
+0.898,249.80,B3,conf=0.64 hipass_yin
+0.908,256.25,C4,conf=0.74 hipass_yin
+0.918,259.31,C4,conf=0.79 hipass_yin
+0.928,259.69,C4,conf=0.73 hipass_yin
+0.938,257.74,C4,conf=0.61 hipass_yin
+0.948,,,silence_or_unvoiced
+0.958,,,silence_or_unvoiced
+0.968,,,silence_or_unvoiced
+0.978,,,silence_or_unvoiced
+0.988,,,silence_or_unvoiced
+0.998,,,silence_or_unvoiced
+1.008,,,silence_or_unvoiced
+1.018,,,silence_or_unvoiced
+1.028,,,silence_or_unvoiced
+1.038,,,silence_or_unvoiced
+1.048,,,silence_or_unvoiced
+1.058,374.29,F#4,conf=0.68 hipass_yin
+1.068,373.16,F#4,conf=0.66 hipass_yin
+1.078,,,silence_or_unvoiced
+1.088,,,silence_or_unvoiced
+1.098,,,silence_or_unvoiced
+1.107,,,silence_or_unvoiced
+1.117,,,silence_or_unvoiced
+1.127,362.35,F#4,conf=0.67 hipass_yin
+1.137,,,silence_or_unvoiced
+1.147,,,silence_or_unvoiced
+1.157,,,silence_or_unvoiced
+1.167,366.23,F#4,conf=0.65 hipass_yin
+1.177,376.64,F#4,conf=0.77 hipass_yin
+1.187,365.51,F#4,conf=0.86 hipass_yin
+1.197,365.07,F#4,conf=0.92 hipass_yin
+1.207,365.21,F#4,conf=0.93 hipass_yin
+1.217,365.39,F#4,conf=0.94 hipass_yin
+1.227,364.87,F#4,conf=0.95 hipass_yin
+1.237,365.14,F#4,conf=0.95 hipass_yin
+1.247,365.57,F#4,conf=0.96 hipass_yin
+1.257,365.33,F#4,conf=0.96 hipass_yin
+1.267,365.33,F#4,conf=0.96 hipass_yin
+1.277,364.98,F#4,conf=0.95 hipass_yin
+1.287,365.06,F#4,conf=0.92 hipass_yin
+1.297,376.64,F#4,conf=0.83 hipass_yin
+1.307,364.74,F#4,conf=0.71 hipass_yin
+1.317,,,silence_or_unvoiced
+1.327,,,silence_or_unvoiced
+1.337,,,silence_or_unvoiced
+1.347,,,silence_or_unvoiced
+1.357,,,silence_or_unvoiced
+1.367,,,silence_or_unvoiced
+1.377,,,silence_or_unvoiced
+1.387,253.41,B3,conf=0.67 hipass_yin
+1.397,,,silence_or_unvoiced
+1.407,,,silence_or_unvoiced
+1.417,,,silence_or_unvoiced
+1.427,,,silence_or_unvoiced
+1.437,,,silence_or_unvoiced
+1.447,,,silence_or_unvoiced
+1.457,,,silence_or_unvoiced
+1.467,,,silence_or_unvoiced
+1.477,,,silence_or_unvoiced
+1.487,,,silence_or_unvoiced
+1.497,,,silence_or_unvoiced
+1.507,,,silence_or_unvoiced
+1.517,,,silence_or_unvoiced
+1.527,,,silence_or_unvoiced
+1.537,,,silence_or_unvoiced
+1.546,,,silence_or_unvoiced
+1.556,,,silence_or_unvoiced
+1.566,,,silence_or_unvoiced
+1.576,,,silence_or_unvoiced
+1.586,,,silence_or_unvoiced
+1.596,,,silence_or_unvoiced
+1.606,,,silence_or_unvoiced
+1.616,,,silence_or_unvoiced
+1.626,,,silence_or_unvoiced
+1.636,,,silence_or_unvoiced
+1.646,,,silence_or_unvoiced
+1.656,,,silence_or_unvoiced
+1.666,,,silence_or_unvoiced
+1.676,,,silence_or_unvoiced
+1.686,,,silence_or_unvoiced
+1.696,,,silence_or_unvoiced
+1.706,,,silence_or_unvoiced
+1.716,,,silence_or_unvoiced
+1.726,,,silence_or_unvoiced
+1.736,,,silence_or_unvoiced
+1.746,,,silence_or_unvoiced
+1.756,,,silence_or_unvoiced
+1.766,,,silence_or_unvoiced
+1.776,,,silence_or_unvoiced
+1.786,,,silence_or_unvoiced
+1.796,,,silence_or_unvoiced
+1.806,236.92,A#3,conf=0.60 hipass_yin
+1.816,,,silence_or_unvoiced
+1.826,237.61,A#3,conf=0.65 hipass_yin
+1.836,233.40,A#3,conf=0.68 hipass_yin
+1.846,234.24,A#3,conf=0.69 hipass_yin
+1.856,233.92,A#3,conf=0.66 hipass_yin
+1.866,238.00,A#3,conf=0.61 hipass_yin
+1.876,,,silence_or_unvoiced
+1.886,,,silence_or_unvoiced
+1.896,,,silence_or_unvoiced
+1.906,,,silence_or_unvoiced
+1.916,,,silence_or_unvoiced
+1.926,,,silence_or_unvoiced
+1.936,,,silence_or_unvoiced
+1.946,,,silence_or_unvoiced
+1.956,253.01,B3,conf=0.67 hipass_yin
+1.966,,,silence_or_unvoiced
+1.976,,,silence_or_unvoiced
+1.985,,,silence_or_unvoiced
+1.995,,,silence_or_unvoiced
+2.005,,,silence_or_unvoiced
+2.015,,,silence_or_unvoiced
+2.025,,,silence_or_unvoiced
+2.035,,,silence_or_unvoiced
+2.045,,,silence_or_unvoiced
+2.055,,,silence_or_unvoiced
+2.065,,,silence_or_unvoiced
+2.075,,,silence_or_unvoiced
+2.085,,,silence_or_unvoiced
+2.095,,,silence_or_unvoiced
+2.105,,,silence_or_unvoiced
+2.115,,,silence_or_unvoiced
+2.125,,,silence_or_unvoiced
+2.135,,,silence_or_unvoiced
+2.145,,,silence_or_unvoiced
+2.155,,,silence_or_unvoiced
+2.165,,,silence_or_unvoiced
+2.175,,,silence_or_unvoiced
+2.185,,,silence_or_unvoiced
+2.195,,,silence_or_unvoiced
+2.205,,,silence_or_unvoiced
+2.215,238.05,A#3,conf=0.61 hipass_yin
+2.225,,,silence_or_unvoiced
+2.235,,,silence_or_unvoiced
+2.245,237.48,A#3,conf=0.62 hipass_yin
+2.255,,,silence_or_unvoiced
+2.265,,,silence_or_unvoiced
+2.275,,,silence_or_unvoiced
+2.285,,,silence_or_unvoiced
+2.295,,,silence_or_unvoiced
+2.305,,,silence_or_unvoiced
+2.315,,,silence_or_unvoiced
+2.325,,,silence_or_unvoiced
+2.335,,,silence_or_unvoiced
+2.345,,,silence_or_unvoiced
+2.355,,,silence_or_unvoiced
+2.365,,,silence_or_unvoiced
+2.375,250.97,B3,conf=0.64 hipass_yin
+2.385,,,silence_or_unvoiced
+2.395,,,silence_or_unvoiced
+2.405,,,silence_or_unvoiced
+2.415,,,silence_or_unvoiced
+2.424,,,silence_or_unvoiced
+2.434,,,silence_or_unvoiced
+2.444,,,silence_or_unvoiced
+2.454,,,silence_or_unvoiced
+2.464,,,silence_or_unvoiced
+2.474,,,silence_or_unvoiced
+2.484,,,silence_or_unvoiced
+2.494,,,silence_or_unvoiced
+2.504,,,silence_or_unvoiced
+2.514,250.92,B3,conf=0.61 hipass_yin
+2.524,254.17,B3,conf=0.62 hipass_yin
+2.534,253.29,B3,conf=0.66 hipass_yin
+2.544,252.99,B3,conf=0.72 hipass_yin
+2.554,254.03,B3,conf=0.73 hipass_yin
+2.564,254.13,B3,conf=0.75 hipass_yin
+2.574,254.17,B3,conf=0.78 hipass_yin
+2.584,249.43,B3,conf=0.78 hipass_yin
+2.594,250.48,B3,conf=0.79 hipass_yin
+2.604,250.47,B3,conf=0.77 hipass_yin
+2.614,250.25,B3,conf=0.73 hipass_yin
+2.624,,,silence_or_unvoiced
+2.634,,,silence_or_unvoiced
+2.644,,,silence_or_unvoiced
+2.654,,,silence_or_unvoiced
+2.664,,,silence_or_unvoiced
+2.674,,,silence_or_unvoiced
+2.684,,,silence_or_unvoiced
+2.694,,,silence_or_unvoiced
+2.704,,,silence_or_unvoiced
+2.714,,,silence_or_unvoiced
+2.724,,,silence_or_unvoiced
+2.734,,,silence_or_unvoiced
+2.744,,,silence_or_unvoiced
+2.754,,,silence_or_unvoiced
+2.764,,,silence_or_unvoiced
+2.774,,,silence_or_unvoiced
+2.784,,,silence_or_unvoiced
+2.794,267.22,C4,conf=0.67 hipass_yin
+2.804,,,silence_or_unvoiced
+2.814,,,silence_or_unvoiced
+2.824,,,silence_or_unvoiced
+2.834,,,silence_or_unvoiced
+2.844,,,silence_or_unvoiced
+2.854,,,silence_or_unvoiced
+2.863,,,silence_or_unvoiced
+2.873,,,silence_or_unvoiced
+2.883,,,silence_or_unvoiced
+2.893,,,silence_or_unvoiced
+2.903,,,silence_or_unvoiced
+2.913,,,silence_or_unvoiced
+2.923,,,silence_or_unvoiced
+2.933,,,silence_or_unvoiced
+2.943,,,silence_or_unvoiced
+2.953,,,silence_or_unvoiced
+2.963,,,silence_or_unvoiced
+2.973,,,silence_or_unvoiced
+2.983,,,silence_or_unvoiced
+2.993,,,silence_or_unvoiced
+3.003,,,silence_or_unvoiced
+3.013,,,silence_or_unvoiced
+3.023,,,silence_or_unvoiced
+3.033,,,silence_or_unvoiced
+3.043,,,silence_or_unvoiced
+3.053,,,silence_or_unvoiced
+3.063,,,silence_or_unvoiced
+3.073,,,silence_or_unvoiced
+3.083,,,silence_or_unvoiced
+3.093,,,silence_or_unvoiced
+3.103,,,silence_or_unvoiced
+3.113,,,silence_or_unvoiced
+3.123,,,silence_or_unvoiced
+3.133,,,silence_or_unvoiced
+3.143,,,silence_or_unvoiced
+3.153,,,silence_or_unvoiced
+3.163,,,silence_or_unvoiced
+3.173,,,silence_or_unvoiced
+3.183,,,silence_or_unvoiced
+3.193,,,silence_or_unvoiced
+3.203,,,silence_or_unvoiced
+3.213,,,silence_or_unvoiced
+3.223,,,silence_or_unvoiced
+3.233,,,silence_or_unvoiced
+3.243,,,silence_or_unvoiced
+3.253,,,silence_or_unvoiced
+3.263,,,silence_or_unvoiced
+3.273,,,silence_or_unvoiced
+3.283,,,silence_or_unvoiced
+3.293,,,silence_or_unvoiced
+3.302,,,silence_or_unvoiced
+3.312,,,silence_or_unvoiced
+3.322,,,silence_or_unvoiced
+3.332,,,silence_or_unvoiced
+3.342,,,silence_or_unvoiced
+3.352,,,silence_or_unvoiced
+3.362,,,silence_or_unvoiced
+3.372,,,silence_or_unvoiced
+3.382,,,silence_or_unvoiced
+3.392,,,silence_or_unvoiced
+3.402,,,silence_or_unvoiced
+3.412,,,silence_or_unvoiced
+3.422,,,silence_or_unvoiced
+3.432,,,silence_or_unvoiced
+3.442,,,silence_or_unvoiced
+3.452,,,silence_or_unvoiced
+3.462,,,silence_or_unvoiced
+3.472,,,silence_or_unvoiced
+3.482,,,silence_or_unvoiced
+3.492,,,silence_or_unvoiced
+3.502,,,silence_or_unvoiced
+3.512,,,silence_or_unvoiced
+3.522,,,silence_or_unvoiced
+3.532,,,silence_or_unvoiced
+3.542,,,silence_or_unvoiced
+3.552,,,silence_or_unvoiced
+3.562,,,silence_or_unvoiced
+3.572,,,silence_or_unvoiced
+3.582,,,silence_or_unvoiced
+3.592,,,silence_or_unvoiced
+3.602,,,silence_or_unvoiced
+3.612,,,silence_or_unvoiced
+3.622,,,silence_or_unvoiced
+3.632,,,silence_or_unvoiced
+3.642,,,silence_or_unvoiced
+3.652,,,silence_or_unvoiced
+3.662,,,silence_or_unvoiced
+3.672,,,silence_or_unvoiced
+3.682,,,silence_or_unvoiced
+3.692,,,silence_or_unvoiced
+3.702,,,silence_or_unvoiced
+3.712,,,silence_or_unvoiced
+3.722,,,silence_or_unvoiced
+3.732,,,silence_or_unvoiced
+3.741,,,silence_or_unvoiced
+3.751,,,silence_or_unvoiced
+3.761,,,silence_or_unvoiced
+3.771,,,silence_or_unvoiced
+3.781,,,silence_or_unvoiced
+3.791,,,silence_or_unvoiced
+3.801,,,silence_or_unvoiced
+3.811,,,silence_or_unvoiced
+3.821,,,silence_or_unvoiced
+3.831,,,silence_or_unvoiced
+3.841,,,silence_or_unvoiced
+3.851,,,silence_or_unvoiced
+3.861,,,silence_or_unvoiced
+3.871,,,silence_or_unvoiced
+3.881,,,silence_or_unvoiced
+3.891,304.97,D#4,conf=0.70 hipass_yin
+3.901,309.88,D#4,conf=0.78 hipass_yin
+3.911,315.90,D#4,conf=0.80 hipass_yin
+3.921,314.60,D#4,conf=0.82 hipass_yin
+3.931,312.98,D#4,conf=0.79 hipass_yin
+3.941,321.01,E4,conf=0.79 hipass_yin
+3.951,320.78,E4,conf=0.79 hipass_yin
+3.961,320.70,E4,conf=0.82 hipass_yin
+3.971,321.39,E4,conf=0.80 hipass_yin
+3.981,321.26,E4,conf=0.79 hipass_yin
+3.991,321.48,E4,conf=0.73 hipass_yin
+4.001,321.86,E4,conf=0.73 hipass_yin
+4.011,321.66,E4,conf=0.77 hipass_yin
+4.021,321.56,E4,conf=0.77 hipass_yin
+4.031,313.03,D#4,conf=0.70 hipass_yin
+4.041,313.92,D#4,conf=0.69 hipass_yin
+4.051,315.17,D#4,conf=0.65 hipass_yin
+4.061,,,silence_or_unvoiced
+4.071,,,silence_or_unvoiced
+4.081,,,silence_or_unvoiced
+4.091,,,silence_or_unvoiced
+4.101,,,silence_or_unvoiced
+4.111,,,silence_or_unvoiced
+4.121,,,silence_or_unvoiced
+4.131,,,silence_or_unvoiced
+4.141,,,silence_or_unvoiced
+4.151,,,silence_or_unvoiced
+4.161,,,silence_or_unvoiced
+4.171,,,silence_or_unvoiced
+4.180,,,silence_or_unvoiced
+4.190,,,silence_or_unvoiced
+4.200,,,silence_or_unvoiced
+4.210,,,silence_or_unvoiced
+4.220,,,silence_or_unvoiced
+4.230,,,silence_or_unvoiced
+4.240,,,silence_or_unvoiced
+4.250,,,silence_or_unvoiced
+4.260,,,silence_or_unvoiced
+4.270,,,silence_or_unvoiced
+4.280,,,silence_or_unvoiced
+4.290,,,silence_or_unvoiced
+4.300,,,silence_or_unvoiced
+4.310,,,silence_or_unvoiced
+4.320,,,silence_or_unvoiced
+4.330,,,silence_or_unvoiced
+4.340,,,silence_or_unvoiced
+4.350,,,silence_or_unvoiced
+4.360,,,silence_or_unvoiced
+4.370,,,silence_or_unvoiced
+4.380,,,silence_or_unvoiced
+4.390,,,silence_or_unvoiced
+4.400,,,silence_or_unvoiced
+4.410,,,silence_or_unvoiced
+4.420,,,silence_or_unvoiced
+4.430,,,silence_or_unvoiced
+4.440,,,silence_or_unvoiced
+4.450,,,silence_or_unvoiced
+4.460,,,silence_or_unvoiced
+4.470,,,silence_or_unvoiced
+4.480,,,silence_or_unvoiced
+4.490,,,silence_or_unvoiced
+4.500,,,silence_or_unvoiced
+4.510,,,silence_or_unvoiced
+4.520,,,silence_or_unvoiced
+4.530,,,silence_or_unvoiced
+4.540,,,silence_or_unvoiced
+4.550,,,silence_or_unvoiced
+4.560,,,silence_or_unvoiced
+4.570,,,silence_or_unvoiced
+4.580,,,silence_or_unvoiced
+4.590,,,silence_or_unvoiced
+4.600,,,silence_or_unvoiced
+4.610,,,silence_or_unvoiced
+4.620,,,silence_or_unvoiced
+4.629,,,silence_or_unvoiced
+4.639,,,silence_or_unvoiced
+4.649,,,silence_or_unvoiced
+4.659,,,silence_or_unvoiced
+4.669,,,silence_or_unvoiced
+4.679,,,silence_or_unvoiced
+4.689,,,silence_or_unvoiced
+4.699,,,silence_or_unvoiced
+4.709,,,silence_or_unvoiced
+4.719,,,silence_or_unvoiced
+4.729,,,silence_or_unvoiced
+4.739,,,silence_or_unvoiced
+4.749,,,silence_or_unvoiced
+4.759,,,silence_or_unvoiced
+4.769,,,silence_or_unvoiced
+4.779,,,silence_or_unvoiced
+4.789,,,silence_or_unvoiced
+4.799,,,silence_or_unvoiced
+4.809,,,silence_or_unvoiced
+4.819,,,silence_or_unvoiced
+4.829,,,silence_or_unvoiced
+4.839,,,silence_or_unvoiced
+4.849,,,silence_or_unvoiced
+4.859,,,silence_or_unvoiced
+4.869,,,silence_or_unvoiced
+4.879,,,silence_or_unvoiced
+4.889,,,silence_or_unvoiced
+4.899,,,silence_or_unvoiced
+4.909,,,silence_or_unvoiced
+4.919,,,silence_or_unvoiced
+4.929,,,silence_or_unvoiced
+4.939,,,silence_or_unvoiced
+4.949,,,silence_or_unvoiced
+4.959,,,silence_or_unvoiced
+4.969,,,silence_or_unvoiced
+4.979,,,silence_or_unvoiced
+4.989,,,silence_or_unvoiced
+4.999,,,silence_or_unvoiced
+5.009,,,silence_or_unvoiced
+5.019,,,silence_or_unvoiced
+5.029,,,silence_or_unvoiced
+5.039,,,silence_or_unvoiced
+5.049,,,silence_or_unvoiced
+5.059,,,silence_or_unvoiced
+5.068,,,silence_or_unvoiced
+5.078,,,silence_or_unvoiced
+5.088,,,silence_or_unvoiced
+5.098,,,silence_or_unvoiced
+5.108,,,silence_or_unvoiced
+5.118,,,silence_or_unvoiced
+5.128,,,silence_or_unvoiced
+5.138,,,silence_or_unvoiced
+5.148,,,silence_or_unvoiced
+5.158,,,silence_or_unvoiced
+5.168,,,silence_or_unvoiced
+5.178,,,silence_or_unvoiced
+5.188,,,silence_or_unvoiced
+5.198,,,silence_or_unvoiced
+5.208,,,silence_or_unvoiced
+5.218,,,silence_or_unvoiced
+5.228,,,silence_or_unvoiced
+5.238,,,silence_or_unvoiced
+5.248,,,silence_or_unvoiced
+5.258,,,silence_or_unvoiced
+5.268,,,silence_or_unvoiced
+5.278,,,silence_or_unvoiced
+5.288,,,silence_or_unvoiced
+5.298,,,silence_or_unvoiced
+5.308,,,silence_or_unvoiced
+5.318,,,silence_or_unvoiced
+5.328,,,silence_or_unvoiced
+5.338,,,silence_or_unvoiced
+5.348,,,silence_or_unvoiced
+5.358,,,silence_or_unvoiced
+5.368,,,silence_or_unvoiced
+5.378,,,silence_or_unvoiced
+5.388,,,silence_or_unvoiced
+5.398,,,silence_or_unvoiced
+5.408,,,silence_or_unvoiced
+5.418,,,silence_or_unvoiced
+5.428,,,silence_or_unvoiced
+5.438,,,silence_or_unvoiced
+5.448,,,silence_or_unvoiced
+5.458,,,silence_or_unvoiced
+5.468,,,silence_or_unvoiced
+5.478,,,silence_or_unvoiced
+5.488,,,silence_or_unvoiced
+5.498,,,silence_or_unvoiced
+5.507,,,silence_or_unvoiced
+5.517,,,silence_or_unvoiced
+5.527,,,silence_or_unvoiced
+5.537,225.16,A3,conf=0.61 hipass_yin
+5.547,221.98,A3,conf=0.63 hipass_yin
+5.557,,,silence_or_unvoiced
+5.567,,,silence_or_unvoiced
+5.577,,,silence_or_unvoiced
+5.587,212.32,G#3,conf=0.68 hipass_yin
+5.597,209.12,G#3,conf=0.66 hipass_yin
+5.607,209.68,G#3,conf=0.69 hipass_yin
+5.617,,,silence_or_unvoiced
+5.627,,,silence_or_unvoiced
+5.637,,,silence_or_unvoiced
+5.647,,,silence_or_unvoiced
+5.657,,,silence_or_unvoiced
+5.667,,,silence_or_unvoiced
+5.677,,,silence_or_unvoiced
+5.687,,,silence_or_unvoiced
+5.697,,,silence_or_unvoiced
+5.707,,,silence_or_unvoiced
+5.717,,,silence_or_unvoiced
+5.727,,,silence_or_unvoiced
+5.737,,,silence_or_unvoiced
+5.747,,,silence_or_unvoiced
+5.757,,,silence_or_unvoiced
+5.767,,,silence_or_unvoiced
+5.777,,,silence_or_unvoiced
+5.787,,,silence_or_unvoiced
+5.797,,,silence_or_unvoiced
+5.807,,,silence_or_unvoiced
+5.817,,,silence_or_unvoiced
+5.827,,,silence_or_unvoiced
+5.837,,,silence_or_unvoiced
+5.847,,,silence_or_unvoiced
+5.857,,,silence_or_unvoiced
+5.867,,,silence_or_unvoiced
+5.877,,,silence_or_unvoiced
+5.887,,,silence_or_unvoiced
+5.897,,,silence_or_unvoiced
+5.907,,,silence_or_unvoiced
+5.917,,,silence_or_unvoiced
+5.927,,,silence_or_unvoiced
+5.937,,,silence_or_unvoiced
+5.946,,,silence_or_unvoiced
+5.956,,,silence_or_unvoiced
+5.966,,,silence_or_unvoiced
+5.976,,,silence_or_unvoiced
+5.986,,,silence_or_unvoiced
+5.996,,,silence_or_unvoiced
+6.006,,,silence_or_unvoiced
+6.016,,,silence_or_unvoiced
+6.026,,,silence_or_unvoiced
+6.036,216.54,A3,conf=0.64 hipass_yin
+6.046,,,silence_or_unvoiced
+6.056,,,silence_or_unvoiced
+6.066,,,silence_or_unvoiced
+6.076,,,silence_or_unvoiced
+6.086,,,silence_or_unvoiced
+6.096,,,silence_or_unvoiced
+6.106,,,silence_or_unvoiced
+6.116,,,silence_or_unvoiced
+6.126,,,silence_or_unvoiced
+6.136,,,silence_or_unvoiced
+6.146,,,silence_or_unvoiced
+6.156,,,silence_or_unvoiced
+6.166,,,silence_or_unvoiced
+6.176,,,silence_or_unvoiced
+6.186,,,silence_or_unvoiced
+6.196,,,silence_or_unvoiced
+6.206,,,silence_or_unvoiced
+6.216,,,silence_or_unvoiced
+6.226,,,silence_or_unvoiced
+6.236,,,silence_or_unvoiced
+6.246,,,silence_or_unvoiced
+6.256,,,silence_or_unvoiced
+6.266,,,silence_or_unvoiced
+6.276,,,silence_or_unvoiced
+6.286,,,silence_or_unvoiced
+6.296,,,silence_or_unvoiced
+6.306,,,silence_or_unvoiced
+6.316,,,silence_or_unvoiced
+6.326,,,silence_or_unvoiced
+6.336,,,silence_or_unvoiced
+6.346,,,silence_or_unvoiced
+6.356,,,silence_or_unvoiced
+6.366,,,silence_or_unvoiced
+6.376,,,silence_or_unvoiced
+6.385,,,silence_or_unvoiced
+6.395,,,silence_or_unvoiced
+6.405,,,silence_or_unvoiced
+6.415,,,silence_or_unvoiced
+6.425,,,silence_or_unvoiced
+6.435,,,silence_or_unvoiced
+6.445,,,silence_or_unvoiced
+6.455,,,silence_or_unvoiced
+6.465,,,silence_or_unvoiced
+6.475,,,silence_or_unvoiced
+6.485,,,silence_or_unvoiced
+6.495,,,silence_or_unvoiced
+6.505,,,silence_or_unvoiced
+6.515,,,silence_or_unvoiced
+6.525,,,silence_or_unvoiced
+6.535,,,silence_or_unvoiced
+6.545,,,silence_or_unvoiced
+6.555,,,silence_or_unvoiced
+6.565,,,silence_or_unvoiced
+6.575,,,silence_or_unvoiced
+6.585,,,silence_or_unvoiced
+6.595,,,silence_or_unvoiced
+6.605,,,silence_or_unvoiced
+6.615,,,silence_or_unvoiced
+6.625,,,silence_or_unvoiced
+6.635,,,silence_or_unvoiced
+6.645,,,silence_or_unvoiced
+6.655,,,silence_or_unvoiced
+6.665,,,silence_or_unvoiced
+6.675,,,silence_or_unvoiced
+6.685,,,silence_or_unvoiced
+6.695,,,silence_or_unvoiced
+6.705,188.31,F#3,conf=0.61 hipass_yin
+6.715,,,silence_or_unvoiced
+6.725,,,silence_or_unvoiced
+6.735,,,silence_or_unvoiced
+6.745,,,silence_or_unvoiced
+6.755,,,silence_or_unvoiced
+6.765,,,silence_or_unvoiced
+6.775,,,silence_or_unvoiced
+6.785,,,silence_or_unvoiced
+6.795,,,silence_or_unvoiced
+6.805,,,silence_or_unvoiced
+6.815,,,silence_or_unvoiced
+6.824,,,silence_or_unvoiced
+6.834,,,silence_or_unvoiced
+6.844,,,silence_or_unvoiced
+6.854,,,silence_or_unvoiced
+6.864,,,silence_or_unvoiced
+6.874,,,silence_or_unvoiced
+6.884,,,silence_or_unvoiced
+6.894,,,silence_or_unvoiced
+6.904,,,silence_or_unvoiced
+6.914,,,silence_or_unvoiced
+6.924,,,silence_or_unvoiced
+6.934,,,silence_or_unvoiced
+6.944,,,silence_or_unvoiced
+6.954,,,silence_or_unvoiced
+6.964,,,silence_or_unvoiced
+6.974,,,silence_or_unvoiced
+6.984,,,silence_or_unvoiced
+6.994,,,silence_or_unvoiced
+7.004,,,silence_or_unvoiced
+7.014,,,silence_or_unvoiced
+7.024,,,silence_or_unvoiced
+7.034,,,silence_or_unvoiced
+7.044,,,silence_or_unvoiced
+7.054,,,silence_or_unvoiced
+7.064,,,silence_or_unvoiced
+7.074,,,silence_or_unvoiced
+7.084,,,silence_or_unvoiced
+7.094,,,silence_or_unvoiced
+7.104,,,silence_or_unvoiced
+7.114,,,silence_or_unvoiced
+7.124,,,silence_or_unvoiced
+7.134,,,silence_or_unvoiced
+7.144,,,silence_or_unvoiced
+7.154,,,silence_or_unvoiced
+7.164,,,silence_or_unvoiced
+7.174,,,silence_or_unvoiced
+7.184,,,silence_or_unvoiced
+7.194,,,silence_or_unvoiced
+7.204,,,silence_or_unvoiced
+7.214,,,silence_or_unvoiced
+7.224,,,silence_or_unvoiced
+7.234,259.29,C4,conf=0.60 hipass_yin
+7.244,255.38,C4,conf=0.61 hipass_yin
+7.254,,,silence_or_unvoiced
+7.263,,,silence_or_unvoiced
+7.273,,,silence_or_unvoiced
+7.283,,,silence_or_unvoiced
+7.293,,,silence_or_unvoiced
+7.303,,,silence_or_unvoiced
+7.313,,,silence_or_unvoiced
+7.323,,,silence_or_unvoiced
+7.333,,,silence_or_unvoiced
+7.343,,,silence_or_unvoiced
+7.353,,,silence_or_unvoiced
+7.363,,,silence_or_unvoiced
+7.373,,,silence_or_unvoiced
+7.383,,,silence_or_unvoiced
+7.393,,,silence_or_unvoiced
+7.403,,,silence_or_unvoiced
+7.413,,,silence_or_unvoiced
+7.423,,,silence_or_unvoiced
+7.433,,,silence_or_unvoiced
+7.443,,,silence_or_unvoiced
+7.453,,,silence_or_unvoiced
+7.463,,,silence_or_unvoiced
+7.473,,,silence_or_unvoiced
+7.483,,,silence_or_unvoiced
+7.493,,,silence_or_unvoiced
+7.503,,,silence_or_unvoiced
+7.513,,,silence_or_unvoiced
+7.523,,,silence_or_unvoiced
+7.533,,,silence_or_unvoiced
+7.543,,,silence_or_unvoiced
+7.553,,,silence_or_unvoiced
+7.563,,,silence_or_unvoiced
+7.573,,,silence_or_unvoiced
+7.583,,,silence_or_unvoiced
+7.593,,,silence_or_unvoiced
+7.603,,,silence_or_unvoiced
+7.613,,,silence_or_unvoiced
+7.623,,,silence_or_unvoiced
+7.633,,,silence_or_unvoiced
+7.643,,,silence_or_unvoiced
+7.653,,,silence_or_unvoiced
+7.663,,,silence_or_unvoiced
+7.673,,,silence_or_unvoiced
+7.683,,,silence_or_unvoiced
+7.693,,,silence_or_unvoiced
+7.702,,,silence_or_unvoiced
+7.712,,,silence_or_unvoiced
+7.722,,,silence_or_unvoiced
+7.732,,,silence_or_unvoiced
+7.742,,,silence_or_unvoiced
+7.752,236.55,A#3,conf=0.61 hipass_yin
+7.762,,,silence_or_unvoiced
+7.772,,,silence_or_unvoiced
+7.782,,,silence_or_unvoiced
+7.792,,,silence_or_unvoiced
+7.802,,,silence_or_unvoiced
+7.812,,,silence_or_unvoiced
+7.822,,,silence_or_unvoiced
+7.832,,,silence_or_unvoiced
+7.842,,,silence_or_unvoiced
+7.852,,,silence_or_unvoiced
+7.862,,,silence_or_unvoiced
+7.872,,,silence_or_unvoiced
+7.882,,,silence_or_unvoiced
+7.892,,,silence_or_unvoiced
+7.902,,,silence_or_unvoiced
+7.912,,,silence_or_unvoiced
+7.922,,,silence_or_unvoiced
+7.932,,,silence_or_unvoiced
+7.942,,,silence_or_unvoiced
+7.952,,,silence_or_unvoiced
+7.962,,,silence_or_unvoiced
+7.972,,,silence_or_unvoiced
+7.982,,,silence_or_unvoiced
+7.992,,,silence_or_unvoiced
+8.002,,,silence_or_unvoiced
+8.012,,,silence_or_unvoiced
+8.022,,,silence_or_unvoiced
+8.032,233.43,A#3,conf=0.65 hipass_yin
+8.042,237.60,A#3,conf=0.64 hipass_yin
+8.052,,,silence_or_unvoiced
+8.062,,,silence_or_unvoiced
+8.072,,,silence_or_unvoiced
+8.082,,,silence_or_unvoiced
+8.092,,,silence_or_unvoiced
+8.102,,,silence_or_unvoiced
+8.112,,,silence_or_unvoiced
+8.122,,,silence_or_unvoiced
+8.132,,,silence_or_unvoiced
+8.141,,,silence_or_unvoiced
+8.151,,,silence_or_unvoiced
+8.161,,,silence_or_unvoiced
+8.171,,,silence_or_unvoiced
+8.181,,,silence_or_unvoiced
+8.191,,,silence_or_unvoiced
+8.201,,,silence_or_unvoiced
+8.211,,,silence_or_unvoiced
+8.221,,,silence_or_unvoiced
+8.231,,,silence_or_unvoiced
+8.241,,,silence_or_unvoiced
+8.251,,,silence_or_unvoiced
+8.261,,,silence_or_unvoiced
+8.271,,,silence_or_unvoiced
+8.281,,,silence_or_unvoiced
+8.291,,,silence_or_unvoiced
+8.301,,,silence_or_unvoiced
+8.311,,,silence_or_unvoiced
+8.321,,,silence_or_unvoiced
+8.331,,,silence_or_unvoiced
+8.341,,,silence_or_unvoiced
+8.351,,,silence_or_unvoiced
+8.361,,,silence_or_unvoiced
+8.371,,,silence_or_unvoiced
+8.381,,,silence_or_unvoiced
+8.391,,,silence_or_unvoiced
+8.401,,,silence_or_unvoiced
+8.411,250.82,B3,conf=0.60 hipass_yin
+8.421,250.51,B3,conf=0.62 hipass_yin
+8.431,,,silence_or_unvoiced
+8.441,,,silence_or_unvoiced
+8.451,,,silence_or_unvoiced
+8.461,,,silence_or_unvoiced
+8.471,,,silence_or_unvoiced
+8.481,,,silence_or_unvoiced
+8.491,,,silence_or_unvoiced
+8.501,,,silence_or_unvoiced
+8.511,,,silence_or_unvoiced
+8.521,,,silence_or_unvoiced
+8.531,252.86,B3,conf=0.64 hipass_yin
+8.541,249.56,B3,conf=0.74 hipass_yin
+8.551,246.63,B3,conf=0.72 hipass_yin
+8.561,251.82,B3,conf=0.74 hipass_yin
+8.571,251.38,B3,conf=0.73 hipass_yin
+8.580,251.08,B3,conf=0.75 hipass_yin
+8.590,250.75,B3,conf=0.76 hipass_yin
+8.600,250.36,B3,conf=0.75 hipass_yin
+8.610,250.29,B3,conf=0.66 hipass_yin
+8.620,,,silence_or_unvoiced
+8.630,,,silence_or_unvoiced
+8.640,,,silence_or_unvoiced
+8.650,,,silence_or_unvoiced
+8.660,,,silence_or_unvoiced
+8.670,,,silence_or_unvoiced
+8.680,,,silence_or_unvoiced
+8.690,,,silence_or_unvoiced
+8.700,,,silence_or_unvoiced
+8.710,,,silence_or_unvoiced
+8.720,,,silence_or_unvoiced
+8.730,,,silence_or_unvoiced
+8.740,,,silence_or_unvoiced
+8.750,209.40,G#3,conf=0.64 hipass_yin
+8.760,209.17,G#3,conf=0.61 hipass_yin
+8.770,,,silence_or_unvoiced
+8.780,,,silence_or_unvoiced
+8.790,,,silence_or_unvoiced
+8.800,,,silence_or_unvoiced
+8.810,,,silence_or_unvoiced
+8.820,,,silence_or_unvoiced
+8.830,,,silence_or_unvoiced
+8.840,,,silence_or_unvoiced
+8.850,,,silence_or_unvoiced
+8.860,,,silence_or_unvoiced
+8.870,,,silence_or_unvoiced
+8.880,,,silence_or_unvoiced
+8.890,,,silence_or_unvoiced
+8.900,,,silence_or_unvoiced
+8.910,,,silence_or_unvoiced
+8.920,,,silence_or_unvoiced
+8.930,,,silence_or_unvoiced
+8.940,,,silence_or_unvoiced
+8.950,,,silence_or_unvoiced
+8.960,,,silence_or_unvoiced
+8.970,,,silence_or_unvoiced
+8.980,,,silence_or_unvoiced
+8.990,246.62,B3,conf=0.61 hipass_yin
+9.000,250.72,B3,conf=0.69 hipass_yin
+9.010,,,silence_or_unvoiced
+9.020,,,silence_or_unvoiced
+9.029,,,silence_or_unvoiced
+9.039,,,silence_or_unvoiced
+9.049,,,silence_or_unvoiced
+9.059,,,silence_or_unvoiced
+9.069,,,silence_or_unvoiced
+9.079,,,silence_or_unvoiced
+9.089,,,silence_or_unvoiced
+9.099,,,silence_or_unvoiced
+9.109,,,silence_or_unvoiced
+9.119,,,silence_or_unvoiced
+9.129,,,silence_or_unvoiced
+9.139,,,silence_or_unvoiced
+9.149,,,silence_or_unvoiced
+9.159,,,silence_or_unvoiced
+9.169,,,silence_or_unvoiced
+9.179,,,silence_or_unvoiced
+9.189,,,silence_or_unvoiced
+9.199,,,silence_or_unvoiced
+9.209,,,silence_or_unvoiced
+9.219,,,silence_or_unvoiced
+9.229,,,silence_or_unvoiced
+9.239,,,silence_or_unvoiced
+9.249,,,silence_or_unvoiced
+9.259,,,silence_or_unvoiced
+9.269,,,silence_or_unvoiced
+9.279,,,silence_or_unvoiced
+9.289,,,silence_or_unvoiced
+9.299,,,silence_or_unvoiced
+9.309,,,silence_or_unvoiced
+9.319,,,silence_or_unvoiced
+9.329,,,silence_or_unvoiced
+9.339,,,silence_or_unvoiced
+9.349,,,silence_or_unvoiced
+9.359,,,silence_or_unvoiced
+9.369,,,silence_or_unvoiced
+9.379,,,silence_or_unvoiced
+9.389,,,silence_or_unvoiced
+9.399,,,silence_or_unvoiced
+9.409,,,silence_or_unvoiced
+9.419,,,silence_or_unvoiced
+9.429,,,silence_or_unvoiced
+9.439,,,silence_or_unvoiced
+9.449,,,silence_or_unvoiced
+9.459,,,silence_or_unvoiced
+9.468,,,silence_or_unvoiced
+9.478,,,silence_or_unvoiced
+9.488,,,silence_or_unvoiced
+9.498,,,silence_or_unvoiced
+9.508,294.36,D4,conf=0.71 hipass_yin
+9.518,297.96,D4,conf=0.68 hipass_yin
+9.528,302.02,D4,conf=0.66 hipass_yin
+9.538,,,silence_or_unvoiced
+9.548,,,silence_or_unvoiced
+9.558,,,silence_or_unvoiced
+9.568,,,silence_or_unvoiced
+9.578,,,silence_or_unvoiced
+9.588,,,silence_or_unvoiced
+9.598,,,silence_or_unvoiced
+9.608,,,silence_or_unvoiced
+9.618,,,silence_or_unvoiced
+9.628,,,silence_or_unvoiced
+9.638,,,silence_or_unvoiced
+9.648,,,silence_or_unvoiced
+9.658,,,silence_or_unvoiced
+9.668,,,silence_or_unvoiced
+9.678,283.96,C#4,conf=0.63 hipass_yin
+9.688,283.17,C#4,conf=0.61 hipass_yin
+9.698,277.60,C#4,conf=0.69 hipass_yin
+9.708,277.42,C#4,conf=0.73 hipass_yin
+9.718,277.49,C#4,conf=0.74 hipass_yin
+9.728,277.88,C#4,conf=0.77 hipass_yin
+9.738,278.02,C#4,conf=0.74 hipass_yin
+9.748,284.28,C#4,conf=0.73 hipass_yin
+9.758,283.03,C#4,conf=0.61 hipass_yin
+9.768,,,silence_or_unvoiced
+9.778,,,silence_or_unvoiced
+9.788,,,silence_or_unvoiced
+9.798,,,silence_or_unvoiced
+9.808,,,silence_or_unvoiced
+9.818,,,silence_or_unvoiced
+9.828,,,silence_or_unvoiced
+9.838,,,silence_or_unvoiced
+9.848,,,silence_or_unvoiced
+9.858,,,silence_or_unvoiced
+9.868,,,silence_or_unvoiced
+9.878,,,silence_or_unvoiced
+9.888,,,silence_or_unvoiced
+9.898,,,silence_or_unvoiced
+9.907,,,silence_or_unvoiced
+9.917,,,silence_or_unvoiced
+9.927,,,silence_or_unvoiced
+9.937,310.07,D#4,conf=0.60 hipass_yin
+9.947,,,silence_or_unvoiced
+9.957,314.42,D#4,conf=0.72 hipass_yin
+9.967,313.36,D#4,conf=0.77 hipass_yin
+9.977,313.06,D#4,conf=0.79 hipass_yin
+9.987,313.36,D#4,conf=0.77 hipass_yin
+9.997,314.75,D#4,conf=0.78 hipass_yin
+10.007,314.97,D#4,conf=0.81 hipass_yin
+10.017,315.60,D#4,conf=0.79 hipass_yin
+10.027,315.38,D#4,conf=0.78 hipass_yin
+10.037,314.45,D#4,conf=0.83 hipass_yin
+10.047,313.74,D#4,conf=0.82 hipass_yin
+10.057,313.01,D#4,conf=0.80 hipass_yin
+10.067,321.60,E4,conf=0.81 hipass_yin
+10.077,320.99,E4,conf=0.83 hipass_yin
+10.087,319.82,D#4,conf=0.80 hipass_yin
+10.097,319.62,D#4,conf=0.79 hipass_yin
+10.107,319.81,D#4,conf=0.80 hipass_yin
+10.117,319.14,D#4,conf=0.73 hipass_yin
+10.127,,,silence_or_unvoiced
+10.137,,,silence_or_unvoiced
+10.147,,,silence_or_unvoiced
+10.157,,,silence_or_unvoiced
+10.167,,,silence_or_unvoiced
+10.177,,,silence_or_unvoiced
+10.187,,,silence_or_unvoiced
+10.197,,,silence_or_unvoiced
+10.207,,,silence_or_unvoiced
+10.217,,,silence_or_unvoiced
+10.227,,,silence_or_unvoiced
+10.237,,,silence_or_unvoiced
+10.247,,,silence_or_unvoiced
+10.257,,,silence_or_unvoiced
+10.267,,,silence_or_unvoiced
+10.277,,,silence_or_unvoiced
+10.287,,,silence_or_unvoiced
+10.297,,,silence_or_unvoiced
+10.307,,,silence_or_unvoiced
+10.317,,,silence_or_unvoiced
+10.327,,,silence_or_unvoiced
+10.337,,,silence_or_unvoiced
+10.346,,,silence_or_unvoiced
+10.356,,,silence_or_unvoiced
+10.366,,,silence_or_unvoiced
+10.376,,,silence_or_unvoiced
+10.386,,,silence_or_unvoiced
+10.396,,,silence_or_unvoiced
+10.406,,,silence_or_unvoiced
+10.416,,,silence_or_unvoiced
+10.426,,,silence_or_unvoiced
+10.436,,,silence_or_unvoiced
+10.446,,,silence_or_unvoiced
+10.456,,,silence_or_unvoiced
+10.466,,,silence_or_unvoiced
+10.476,,,silence_or_unvoiced
+10.486,,,silence_or_unvoiced
+10.496,,,silence_or_unvoiced
+10.506,,,silence_or_unvoiced
+10.516,,,silence_or_unvoiced
+10.526,,,silence_or_unvoiced
+10.536,,,silence_or_unvoiced
+10.546,,,silence_or_unvoiced
+10.556,,,silence_or_unvoiced
+10.566,,,silence_or_unvoiced
+10.576,,,silence_or_unvoiced
+10.586,,,silence_or_unvoiced
+10.596,,,silence_or_unvoiced
+10.606,,,silence_or_unvoiced
+10.616,,,silence_or_unvoiced
+10.626,,,silence_or_unvoiced
+10.636,,,silence_or_unvoiced
+10.646,,,silence_or_unvoiced
+10.656,,,silence_or_unvoiced
+10.666,,,silence_or_unvoiced
+10.676,,,silence_or_unvoiced
+10.686,,,silence_or_unvoiced
+10.696,,,silence_or_unvoiced
+10.706,,,silence_or_unvoiced
+10.716,,,silence_or_unvoiced
+10.726,,,silence_or_unvoiced
+10.736,,,silence_or_unvoiced
+10.746,,,silence_or_unvoiced
+10.756,,,silence_or_unvoiced
+10.766,,,silence_or_unvoiced
+10.776,,,silence_or_unvoiced
+10.785,,,silence_or_unvoiced
+10.795,,,silence_or_unvoiced
+10.805,,,silence_or_unvoiced
+10.815,,,silence_or_unvoiced
+10.825,,,silence_or_unvoiced
+10.835,,,silence_or_unvoiced
+10.845,,,silence_or_unvoiced
+10.855,,,silence_or_unvoiced
+10.865,,,silence_or_unvoiced
+10.875,,,silence_or_unvoiced
+10.885,,,silence_or_unvoiced
+10.895,,,silence_or_unvoiced
+10.905,,,silence_or_unvoiced
+10.915,,,silence_or_unvoiced
+10.925,,,silence_or_unvoiced
+10.935,,,silence_or_unvoiced
+10.945,,,silence_or_unvoiced
+10.955,,,silence_or_unvoiced
+10.965,,,silence_or_unvoiced
+10.975,,,silence_or_unvoiced
+10.985,,,silence_or_unvoiced
+10.995,,,silence_or_unvoiced
+11.005,,,silence_or_unvoiced
+11.015,,,silence_or_unvoiced
+11.025,,,silence_or_unvoiced
+11.035,,,silence_or_unvoiced
+11.045,,,silence_or_unvoiced
+11.055,,,silence_or_unvoiced
+11.065,,,silence_or_unvoiced
+11.075,,,silence_or_unvoiced
+11.085,,,silence_or_unvoiced
+11.095,,,silence_or_unvoiced
+11.105,,,silence_or_unvoiced
+11.115,,,silence_or_unvoiced
+11.125,,,silence_or_unvoiced
+11.135,,,silence_or_unvoiced
+11.145,,,silence_or_unvoiced
+11.155,,,silence_or_unvoiced
+11.165,,,silence_or_unvoiced
+11.175,,,silence_or_unvoiced
+11.185,,,silence_or_unvoiced
+11.195,,,silence_or_unvoiced
+11.205,,,silence_or_unvoiced
+11.215,,,silence_or_unvoiced
+11.224,,,silence_or_unvoiced
+11.234,,,silence_or_unvoiced
+11.244,,,silence_or_unvoiced
+11.254,,,silence_or_unvoiced
+11.264,,,silence_or_unvoiced
+11.274,,,silence_or_unvoiced
+11.284,,,silence_or_unvoiced
+11.294,,,silence_or_unvoiced
+11.304,,,silence_or_unvoiced
+11.314,,,silence_or_unvoiced
+11.324,,,silence_or_unvoiced
+11.334,,,silence_or_unvoiced
+11.344,,,silence_or_unvoiced
+11.354,,,silence_or_unvoiced
+11.364,,,silence_or_unvoiced
+11.374,,,silence_or_unvoiced
+11.384,221.93,A3,conf=0.61 hipass_yin
+11.394,,,silence_or_unvoiced
+11.404,,,silence_or_unvoiced
+11.414,,,silence_or_unvoiced
+11.424,,,silence_or_unvoiced
+11.434,,,silence_or_unvoiced
+11.444,,,silence_or_unvoiced
+11.454,,,silence_or_unvoiced
+11.464,,,silence_or_unvoiced
+11.474,,,silence_or_unvoiced
+11.484,,,silence_or_unvoiced
+11.494,,,silence_or_unvoiced
+11.504,,,silence_or_unvoiced
+11.514,,,silence_or_unvoiced
+11.524,,,silence_or_unvoiced
+11.534,,,silence_or_unvoiced
+11.544,,,silence_or_unvoiced
+11.554,,,silence_or_unvoiced
+11.564,,,silence_or_unvoiced
+11.574,,,silence_or_unvoiced
+11.584,,,silence_or_unvoiced
+11.594,,,silence_or_unvoiced
+11.604,,,silence_or_unvoiced
+11.614,,,silence_or_unvoiced
+11.624,,,silence_or_unvoiced
+11.634,,,silence_or_unvoiced
+11.644,,,silence_or_unvoiced
+11.654,,,silence_or_unvoiced
+11.663,,,silence_or_unvoiced
+11.673,,,silence_or_unvoiced
+11.683,,,silence_or_unvoiced
+11.693,,,silence_or_unvoiced
+11.703,,,silence_or_unvoiced
+11.713,,,silence_or_unvoiced
+11.723,,,silence_or_unvoiced
+11.733,,,silence_or_unvoiced
+11.743,253.89,B3,conf=0.62 hipass_yin
+11.753,250.04,B3,conf=0.61 hipass_yin
+11.763,250.76,B3,conf=0.66 hipass_yin
+11.773,249.39,B3,conf=0.68 hipass_yin
+11.783,,,silence_or_unvoiced
+11.793,253.58,B3,conf=0.71 hipass_yin
+11.803,,,silence_or_unvoiced
+11.813,,,silence_or_unvoiced
+11.823,,,silence_or_unvoiced
+11.833,,,silence_or_unvoiced
+11.843,,,silence_or_unvoiced
+11.853,,,silence_or_unvoiced
+11.863,,,silence_or_unvoiced
+11.873,,,silence_or_unvoiced
+11.883,,,silence_or_unvoiced
+11.893,,,silence_or_unvoiced
+11.903,,,silence_or_unvoiced
+11.913,,,silence_or_unvoiced
+11.923,,,silence_or_unvoiced
+11.933,,,silence_or_unvoiced
+11.943,,,silence_or_unvoiced
+11.953,,,silence_or_unvoiced
+11.963,,,silence_or_unvoiced
+11.973,,,silence_or_unvoiced
+11.983,,,silence_or_unvoiced
+11.993,,,silence_or_unvoiced
+12.003,,,silence_or_unvoiced
+12.013,,,silence_or_unvoiced
+12.023,,,silence_or_unvoiced
+12.033,,,silence_or_unvoiced
+12.043,,,silence_or_unvoiced
+12.053,,,silence_or_unvoiced
+12.063,,,silence_or_unvoiced
+12.073,,,silence_or_unvoiced
+12.083,,,silence_or_unvoiced
+12.093,,,silence_or_unvoiced
+12.102,,,silence_or_unvoiced
+12.112,,,silence_or_unvoiced
+12.122,,,silence_or_unvoiced
+12.132,,,silence_or_unvoiced
+12.142,,,silence_or_unvoiced
+12.152,,,silence_or_unvoiced
+12.162,,,silence_or_unvoiced
+12.172,,,silence_or_unvoiced
+12.182,,,silence_or_unvoiced
+12.192,,,silence_or_unvoiced
+12.202,,,silence_or_unvoiced
+12.212,,,silence_or_unvoiced
+12.222,,,silence_or_unvoiced
+12.232,,,silence_or_unvoiced
+12.242,,,silence_or_unvoiced
+12.252,,,silence_or_unvoiced
+12.262,,,silence_or_unvoiced
+12.272,,,silence_or_unvoiced
+12.282,,,silence_or_unvoiced
+12.292,,,silence_or_unvoiced
+12.302,,,silence_or_unvoiced
+12.312,,,silence_or_unvoiced
+12.322,,,silence_or_unvoiced
+12.332,,,silence_or_unvoiced
+12.342,,,silence_or_unvoiced
+12.352,,,silence_or_unvoiced
+12.362,,,silence_or_unvoiced
+12.372,,,silence_or_unvoiced
+12.382,,,silence_or_unvoiced
+12.392,,,silence_or_unvoiced
+12.402,,,silence_or_unvoiced
+12.412,,,silence_or_unvoiced
+12.422,,,silence_or_unvoiced
+12.432,203.75,G#3,conf=0.61 hipass_yin
+12.442,205.94,G#3,conf=0.62 hipass_yin
+12.452,,,silence_or_unvoiced
+12.462,,,silence_or_unvoiced
+12.472,,,silence_or_unvoiced
+12.482,,,silence_or_unvoiced
+12.492,,,silence_or_unvoiced
+12.502,,,silence_or_unvoiced
+12.512,,,silence_or_unvoiced
+12.522,,,silence_or_unvoiced
+12.532,,,silence_or_unvoiced
+12.541,,,silence_or_unvoiced
+12.551,,,silence_or_unvoiced
+12.561,,,silence_or_unvoiced
+12.571,,,silence_or_unvoiced
+12.581,,,silence_or_unvoiced
+12.591,,,silence_or_unvoiced
+12.601,,,silence_or_unvoiced
+12.611,,,silence_or_unvoiced
+12.621,,,silence_or_unvoiced
+12.631,,,silence_or_unvoiced
+12.641,,,silence_or_unvoiced
+12.651,,,silence_or_unvoiced
+12.661,,,silence_or_unvoiced
+12.671,,,silence_or_unvoiced
+12.681,,,silence_or_unvoiced
+12.691,,,silence_or_unvoiced
+12.701,,,silence_or_unvoiced
+12.711,,,silence_or_unvoiced
+12.721,,,silence_or_unvoiced
+12.731,,,silence_or_unvoiced
+12.741,,,silence_or_unvoiced
+12.751,,,silence_or_unvoiced
+12.761,,,silence_or_unvoiced
+12.771,,,silence_or_unvoiced
+12.781,,,silence_or_unvoiced
+12.791,,,silence_or_unvoiced
+12.801,,,silence_or_unvoiced
+12.811,,,silence_or_unvoiced
+12.821,,,silence_or_unvoiced
+12.831,,,silence_or_unvoiced
+12.841,,,silence_or_unvoiced
+12.851,,,silence_or_unvoiced
+12.861,,,silence_or_unvoiced
+12.871,,,silence_or_unvoiced
+12.881,,,silence_or_unvoiced
+12.891,,,silence_or_unvoiced
+12.901,,,silence_or_unvoiced
+12.911,,,silence_or_unvoiced
+12.921,,,silence_or_unvoiced
+12.931,,,silence_or_unvoiced
+12.941,,,silence_or_unvoiced
+12.951,,,silence_or_unvoiced
+12.961,,,silence_or_unvoiced
+12.971,,,silence_or_unvoiced
+12.980,,,silence_or_unvoiced
+12.990,,,silence_or_unvoiced
+13.000,,,silence_or_unvoiced
+13.010,,,silence_or_unvoiced
+13.020,,,silence_or_unvoiced
+13.030,,,silence_or_unvoiced
+13.040,,,silence_or_unvoiced
+13.050,,,silence_or_unvoiced
+13.060,,,silence_or_unvoiced
+13.070,,,silence_or_unvoiced
+13.080,,,silence_or_unvoiced
+13.090,,,silence_or_unvoiced
+13.100,,,silence_or_unvoiced
+13.110,,,silence_or_unvoiced
+13.120,,,silence_or_unvoiced
+13.130,,,silence_or_unvoiced
+13.140,,,silence_or_unvoiced
+13.150,,,silence_or_unvoiced
+13.160,,,silence_or_unvoiced
+13.170,,,silence_or_unvoiced
+13.180,,,silence_or_unvoiced
+13.190,,,silence_or_unvoiced
+13.200,,,silence_or_unvoiced
+13.210,,,silence_or_unvoiced
+13.220,,,silence_or_unvoiced
+13.230,,,silence_or_unvoiced
+13.240,,,silence_or_unvoiced
+13.250,,,silence_or_unvoiced
+13.260,251.67,B3,conf=0.71 hipass_yin
+13.270,251.92,B3,conf=0.69 hipass_yin
+13.280,246.94,B3,conf=0.73 hipass_yin
+13.290,247.09,B3,conf=0.75 hipass_yin
+13.300,,,silence_or_unvoiced
+13.310,,,silence_or_unvoiced
+13.320,,,silence_or_unvoiced
+13.330,,,silence_or_unvoiced
+13.340,,,silence_or_unvoiced
+13.350,,,silence_or_unvoiced
+13.360,,,silence_or_unvoiced
+13.370,,,silence_or_unvoiced
+13.380,,,silence_or_unvoiced
+13.390,338.04,E4,conf=0.62 hipass_yin
+13.400,338.72,E4,conf=0.67 hipass_yin
+13.410,,,silence_or_unvoiced
+13.420,342.03,F4,conf=0.61 hipass_yin
+13.429,357.65,F4,conf=0.69 hipass_yin
+13.439,359.72,F#4,conf=0.71 hipass_yin
+13.449,367.25,F#4,conf=0.75 hipass_yin
+13.459,373.89,F#4,conf=0.79 hipass_yin
+13.469,381.49,G4,conf=0.79 hipass_yin
+13.479,380.84,G4,conf=0.75 hipass_yin
+13.489,,,silence_or_unvoiced
+13.499,,,silence_or_unvoiced
+13.509,,,silence_or_unvoiced
+13.519,,,silence_or_unvoiced
+13.529,,,silence_or_unvoiced
+13.539,,,silence_or_unvoiced
+13.549,,,silence_or_unvoiced
+13.559,,,silence_or_unvoiced
+13.569,,,silence_or_unvoiced
+13.579,,,silence_or_unvoiced
+13.589,,,silence_or_unvoiced
+13.599,,,silence_or_unvoiced
+13.609,,,silence_or_unvoiced
+13.619,,,silence_or_unvoiced
+13.629,,,silence_or_unvoiced
+13.639,,,silence_or_unvoiced
+13.649,,,silence_or_unvoiced
+13.659,,,silence_or_unvoiced
+13.669,,,silence_or_unvoiced
+13.679,,,silence_or_unvoiced
+13.689,,,silence_or_unvoiced
+13.699,,,silence_or_unvoiced
+13.709,,,silence_or_unvoiced
+13.719,,,silence_or_unvoiced
+13.729,,,silence_or_unvoiced
+13.739,,,silence_or_unvoiced
+13.749,,,silence_or_unvoiced
+13.759,,,silence_or_unvoiced
+13.769,,,silence_or_unvoiced
+13.779,,,silence_or_unvoiced
+13.789,,,silence_or_unvoiced
+13.799,,,silence_or_unvoiced
+13.809,,,silence_or_unvoiced
+13.819,,,silence_or_unvoiced
+13.829,370.85,F#4,conf=0.65 hipass_yin
+13.839,371.48,F#4,conf=0.70 hipass_yin
+13.849,372.18,F#4,conf=0.73 hipass_yin
+13.859,371.90,F#4,conf=0.63 hipass_yin
+13.868,,,silence_or_unvoiced
+13.878,370.83,F#4,conf=0.60 hipass_yin
+13.888,,,silence_or_unvoiced
+13.898,,,silence_or_unvoiced
+13.908,,,silence_or_unvoiced
+13.918,,,silence_or_unvoiced
+13.928,388.70,G4,conf=0.66 hipass_yin
+13.938,,,silence_or_unvoiced
+13.948,,,silence_or_unvoiced
+13.958,,,silence_or_unvoiced
+13.968,,,silence_or_unvoiced
+13.978,,,silence_or_unvoiced
+13.988,415.62,G#4,conf=0.67 hipass_yin
+13.998,,,silence_or_unvoiced
+14.008,,,silence_or_unvoiced
+14.018,415.28,G#4,conf=0.66 hipass_yin
+14.028,,,silence_or_unvoiced
+14.038,,,silence_or_unvoiced
+14.048,,,silence_or_unvoiced
+14.058,,,silence_or_unvoiced
+14.068,,,silence_or_unvoiced
+14.078,,,silence_or_unvoiced
+14.088,,,silence_or_unvoiced
+14.098,,,silence_or_unvoiced
+14.108,,,silence_or_unvoiced
+14.118,,,silence_or_unvoiced
+14.128,,,silence_or_unvoiced
+14.138,,,silence_or_unvoiced
+14.148,,,silence_or_unvoiced
+14.158,,,silence_or_unvoiced
+14.168,,,silence_or_unvoiced
+14.178,,,silence_or_unvoiced
+14.188,,,silence_or_unvoiced
+14.198,,,silence_or_unvoiced
+14.208,,,silence_or_unvoiced
+14.218,,,silence_or_unvoiced
+14.228,284.07,C#4,conf=0.60 hipass_yin
+14.238,283.38,C#4,conf=0.64 hipass_yin
+14.248,,,silence_or_unvoiced
+14.258,,,silence_or_unvoiced
+14.268,,,silence_or_unvoiced
+14.278,,,silence_or_unvoiced
+14.288,,,silence_or_unvoiced
+14.298,,,silence_or_unvoiced
+14.307,,,silence_or_unvoiced
+14.317,,,silence_or_unvoiced
+14.327,,,silence_or_unvoiced
+14.337,,,silence_or_unvoiced
+14.347,,,silence_or_unvoiced
+14.357,,,silence_or_unvoiced
+14.367,,,silence_or_unvoiced
+14.377,,,silence_or_unvoiced
+14.387,,,silence_or_unvoiced
+14.397,,,silence_or_unvoiced
+14.407,,,silence_or_unvoiced
+14.417,283.40,C#4,conf=0.66 hipass_yin
+14.427,282.74,C#4,conf=0.64 hipass_yin
+14.437,,,silence_or_unvoiced
+14.447,,,silence_or_unvoiced
+14.457,,,silence_or_unvoiced
+14.467,,,silence_or_unvoiced
+14.477,,,silence_or_unvoiced
+14.487,,,silence_or_unvoiced
+14.497,,,silence_or_unvoiced
+14.507,,,silence_or_unvoiced
+14.517,,,silence_or_unvoiced
+14.527,281.87,C#4,conf=0.62 hipass_yin
+14.537,288.21,D4,conf=0.63 hipass_yin
+14.547,280.96,C#4,conf=0.63 hipass_yin
+14.557,287.56,D4,conf=0.69 hipass_yin
+14.567,287.73,D4,conf=0.64 hipass_yin
+14.577,281.00,C#4,conf=0.67 hipass_yin
+14.587,281.12,C#4,conf=0.67 hipass_yin
+14.597,,,silence_or_unvoiced
+14.607,,,silence_or_unvoiced
+14.617,,,silence_or_unvoiced
+14.627,,,silence_or_unvoiced
+14.637,,,silence_or_unvoiced
+14.647,,,silence_or_unvoiced
+14.657,,,silence_or_unvoiced
+14.667,,,silence_or_unvoiced
+14.677,,,silence_or_unvoiced
+14.687,,,silence_or_unvoiced
+14.697,,,silence_or_unvoiced
+14.707,,,silence_or_unvoiced
+14.717,,,silence_or_unvoiced
+14.727,,,silence_or_unvoiced
+14.737,,,silence_or_unvoiced
+14.746,,,silence_or_unvoiced
+14.756,287.26,D4,conf=0.60 hipass_yin
+14.766,287.51,D4,conf=0.70 hipass_yin
+14.776,280.98,C#4,conf=0.74 hipass_yin
+14.786,281.62,C#4,conf=0.75 hipass_yin
+14.796,281.94,C#4,conf=0.62 hipass_yin
+14.806,,,silence_or_unvoiced
+14.816,,,silence_or_unvoiced
+14.826,,,silence_or_unvoiced
+14.836,,,silence_or_unvoiced
+14.846,,,silence_or_unvoiced
+14.856,,,silence_or_unvoiced
+14.866,,,silence_or_unvoiced
+14.876,,,silence_or_unvoiced
+14.886,287.17,D4,conf=0.60 hipass_yin
+14.896,286.33,D4,conf=0.63 hipass_yin
+14.906,285.83,D4,conf=0.63 hipass_yin
+14.916,,,silence_or_unvoiced
+14.926,281.05,C#4,conf=0.63 hipass_yin
+14.936,281.94,C#4,conf=0.70 hipass_yin
+14.946,,,silence_or_unvoiced
+14.956,,,silence_or_unvoiced
+14.966,286.79,D4,conf=0.64 hipass_yin
+14.976,286.84,D4,conf=0.67 hipass_yin
+14.986,287.75,D4,conf=0.62 hipass_yin
+14.996,,,silence_or_unvoiced
+15.006,,,silence_or_unvoiced
+15.016,,,silence_or_unvoiced
+15.026,,,silence_or_unvoiced
+15.036,,,silence_or_unvoiced
+15.046,,,silence_or_unvoiced
+15.056,,,silence_or_unvoiced
+15.066,,,silence_or_unvoiced
+15.076,,,silence_or_unvoiced
+15.086,,,silence_or_unvoiced
+15.096,,,silence_or_unvoiced
+15.106,,,silence_or_unvoiced
+15.116,287.38,D4,conf=0.65 hipass_yin
+15.126,287.14,D4,conf=0.69 hipass_yin
+15.136,287.52,D4,conf=0.70 hipass_yin
+15.146,287.88,D4,conf=0.71 hipass_yin
+15.156,288.23,D4,conf=0.69 hipass_yin
+15.166,,,silence_or_unvoiced
+15.176,,,silence_or_unvoiced
+15.185,,,silence_or_unvoiced
+15.195,,,silence_or_unvoiced
+15.205,,,silence_or_unvoiced
+15.215,,,silence_or_unvoiced
+15.225,,,silence_or_unvoiced
+15.235,,,silence_or_unvoiced
+15.245,,,silence_or_unvoiced
+15.255,,,silence_or_unvoiced
+15.265,,,silence_or_unvoiced
+15.275,,,silence_or_unvoiced
+15.285,,,silence_or_unvoiced
+15.295,,,silence_or_unvoiced
+15.305,283.23,C#4,conf=0.67 hipass_yin
+15.315,283.48,C#4,conf=0.72 hipass_yin
+15.325,282.76,C#4,conf=0.63 hipass_yin
+15.335,,,silence_or_unvoiced
+15.345,,,silence_or_unvoiced
+15.355,,,silence_or_unvoiced
+15.365,,,silence_or_unvoiced
+15.375,,,silence_or_unvoiced
+15.385,,,silence_or_unvoiced
+15.395,,,silence_or_unvoiced
+15.405,,,silence_or_unvoiced
+15.415,315.29,D#4,conf=0.67 hipass_yin
+15.425,321.75,E4,conf=0.78 hipass_yin
+15.435,320.04,D#4,conf=0.82 hipass_yin
+15.445,318.56,D#4,conf=0.78 hipass_yin
+15.455,318.83,D#4,conf=0.69 hipass_yin
+15.465,321.56,E4,conf=0.61 hipass_yin
+15.475,314.20,D#4,conf=0.63 hipass_yin
+15.485,,,silence_or_unvoiced
+15.495,,,silence_or_unvoiced
+15.505,,,silence_or_unvoiced
+15.515,,,silence_or_unvoiced
+15.525,,,silence_or_unvoiced
+15.535,,,silence_or_unvoiced
+15.545,,,silence_or_unvoiced
+15.555,,,silence_or_unvoiced
+15.565,,,silence_or_unvoiced
+15.575,,,silence_or_unvoiced
+15.585,,,silence_or_unvoiced
+15.595,,,silence_or_unvoiced
+15.605,,,silence_or_unvoiced
+15.615,,,silence_or_unvoiced
+15.624,,,silence_or_unvoiced
+15.634,,,silence_or_unvoiced
+15.644,280.97,C#4,conf=0.67 hipass_yin
+15.654,282.70,C#4,conf=0.68 hipass_yin
+15.664,,,silence_or_unvoiced
+15.674,,,silence_or_unvoiced
+15.684,279.39,C#4,conf=0.61 hipass_yin
+15.694,283.27,C#4,conf=0.61 hipass_yin
+15.704,281.66,C#4,conf=0.66 hipass_yin
+15.714,,,silence_or_unvoiced
+15.724,,,silence_or_unvoiced
+15.734,,,silence_or_unvoiced
+15.744,,,silence_or_unvoiced
+15.754,,,silence_or_unvoiced
+15.764,,,silence_or_unvoiced
+15.774,,,silence_or_unvoiced
+15.784,,,silence_or_unvoiced
+15.794,,,silence_or_unvoiced
+15.804,,,silence_or_unvoiced
+15.814,,,silence_or_unvoiced
+15.824,,,silence_or_unvoiced
+15.834,,,silence_or_unvoiced
+15.844,,,silence_or_unvoiced
+15.854,,,silence_or_unvoiced
+15.864,,,silence_or_unvoiced
+15.874,,,silence_or_unvoiced
+15.884,,,silence_or_unvoiced
+15.894,,,silence_or_unvoiced
+15.904,250.60,B3,conf=0.62 hipass_yin
+15.914,,,silence_or_unvoiced
+15.924,,,silence_or_unvoiced
+15.934,,,silence_or_unvoiced
+15.944,,,silence_or_unvoiced
+15.954,,,silence_or_unvoiced
+15.964,,,silence_or_unvoiced
+15.974,,,silence_or_unvoiced
+15.984,,,silence_or_unvoiced
+15.994,,,silence_or_unvoiced
+16.004,,,silence_or_unvoiced
+16.014,,,silence_or_unvoiced
+16.024,,,silence_or_unvoiced
+16.034,,,silence_or_unvoiced
+16.044,,,silence_or_unvoiced
+16.054,,,silence_or_unvoiced
+16.063,,,silence_or_unvoiced
+16.073,,,silence_or_unvoiced
+16.083,,,silence_or_unvoiced
+16.093,,,silence_or_unvoiced
+16.103,,,silence_or_unvoiced
+16.113,,,silence_or_unvoiced
+16.123,,,silence_or_unvoiced
+16.133,,,silence_or_unvoiced
+16.143,,,silence_or_unvoiced
+16.153,,,silence_or_unvoiced
+16.163,,,silence_or_unvoiced
+16.173,,,silence_or_unvoiced
+16.183,,,silence_or_unvoiced
+16.193,,,silence_or_unvoiced
+16.203,,,silence_or_unvoiced
+16.213,,,silence_or_unvoiced
+16.223,,,silence_or_unvoiced
+16.233,,,silence_or_unvoiced
+16.243,,,silence_or_unvoiced
+16.253,189.69,F#3,conf=0.60 hipass_yin
+16.263,192.45,G3,conf=0.64 hipass_yin
+16.273,192.15,G3,conf=0.70 hipass_yin
+16.283,192.37,G3,conf=0.65 hipass_yin
+16.293,,,silence_or_unvoiced
+16.303,,,silence_or_unvoiced
+16.313,,,silence_or_unvoiced
+16.323,,,silence_or_unvoiced
+16.333,,,silence_or_unvoiced
+16.343,,,silence_or_unvoiced
+16.353,,,silence_or_unvoiced
+16.363,,,silence_or_unvoiced
+16.373,,,silence_or_unvoiced
+16.383,,,silence_or_unvoiced
+16.393,,,silence_or_unvoiced
+16.403,,,silence_or_unvoiced
+16.413,189.48,F#3,conf=0.64 hipass_yin
+16.423,,,silence_or_unvoiced
+16.433,,,silence_or_unvoiced
+16.443,,,silence_or_unvoiced
+16.453,,,silence_or_unvoiced
+16.463,,,silence_or_unvoiced
+16.473,,,silence_or_unvoiced
+16.483,,,silence_or_unvoiced
+16.493,,,silence_or_unvoiced
+16.502,,,silence_or_unvoiced
+16.512,,,silence_or_unvoiced
+16.522,,,silence_or_unvoiced
+16.532,,,silence_or_unvoiced
+16.542,,,silence_or_unvoiced
+16.552,,,silence_or_unvoiced
+16.562,,,silence_or_unvoiced
+16.572,,,silence_or_unvoiced
+16.582,,,silence_or_unvoiced
+16.592,,,silence_or_unvoiced
+16.602,,,silence_or_unvoiced
+16.612,188.40,F#3,conf=0.72 hipass_yin
+16.622,188.14,F#3,conf=0.67 hipass_yin
+16.632,,,silence_or_unvoiced
+16.642,188.64,F#3,conf=0.62 hipass_yin
+16.652,,,silence_or_unvoiced
+16.662,,,silence_or_unvoiced
+16.672,,,silence_or_unvoiced
+16.682,,,silence_or_unvoiced
+16.692,,,silence_or_unvoiced
+16.702,,,silence_or_unvoiced
+16.712,,,silence_or_unvoiced
+16.722,,,silence_or_unvoiced
+16.732,,,silence_or_unvoiced
+16.742,,,silence_or_unvoiced
+16.752,,,silence_or_unvoiced
+16.762,,,silence_or_unvoiced
+16.772,,,silence_or_unvoiced
+16.782,,,silence_or_unvoiced
+16.792,,,silence_or_unvoiced
+16.802,,,silence_or_unvoiced
+16.812,366.07,F#4,conf=0.67 hipass_yin
+16.822,374.68,F#4,conf=0.69 hipass_yin
+16.832,372.51,F#4,conf=0.65 hipass_yin
+16.842,371.98,F#4,conf=0.62 hipass_yin
+16.852,374.41,F#4,conf=0.66 hipass_yin
+16.862,374.46,F#4,conf=0.60 hipass_yin
+16.872,,,silence_or_unvoiced
+16.882,,,silence_or_unvoiced
+16.892,,,silence_or_unvoiced
+16.902,,,silence_or_unvoiced
+16.912,,,silence_or_unvoiced
+16.922,378.21,F#4,conf=0.65 hipass_yin
+16.932,378.35,F#4,conf=0.67 hipass_yin
+16.941,378.06,F#4,conf=0.65 hipass_yin
+16.951,378.31,F#4,conf=0.64 hipass_yin
+16.961,,,silence_or_unvoiced
+16.971,,,silence_or_unvoiced
+16.981,,,silence_or_unvoiced
+16.991,,,silence_or_unvoiced
+17.001,,,silence_or_unvoiced
+17.011,,,silence_or_unvoiced
+17.021,,,silence_or_unvoiced
+17.031,,,silence_or_unvoiced
+17.041,,,silence_or_unvoiced
+17.051,,,silence_or_unvoiced
+17.061,,,silence_or_unvoiced
+17.071,,,silence_or_unvoiced
+17.081,,,silence_or_unvoiced
+17.091,,,silence_or_unvoiced
+17.101,,,silence_or_unvoiced
+17.111,,,silence_or_unvoiced
+17.121,,,silence_or_unvoiced
+17.131,372.99,F#4,conf=0.70 hipass_yin
+17.141,,,silence_or_unvoiced
+17.151,,,silence_or_unvoiced
+17.161,,,silence_or_unvoiced
+17.171,,,silence_or_unvoiced
+17.181,,,silence_or_unvoiced
+17.191,,,silence_or_unvoiced
+17.201,,,silence_or_unvoiced
+17.211,,,silence_or_unvoiced
+17.221,,,silence_or_unvoiced
+17.231,,,silence_or_unvoiced
+17.241,,,silence_or_unvoiced
+17.251,,,silence_or_unvoiced
+17.261,,,silence_or_unvoiced
+17.271,,,silence_or_unvoiced
+17.281,,,silence_or_unvoiced
+17.291,,,silence_or_unvoiced
+17.301,,,silence_or_unvoiced
+17.311,,,silence_or_unvoiced
+17.321,,,silence_or_unvoiced
+17.331,,,silence_or_unvoiced
+17.341,,,silence_or_unvoiced
+17.351,,,silence_or_unvoiced
+17.361,,,silence_or_unvoiced
+17.371,287.94,D4,conf=0.63 hipass_yin
+17.380,281.14,C#4,conf=0.71 hipass_yin
+17.390,562.72,C#5,conf=0.80 hipass_yin
+17.400,562.83,C#5,conf=0.78 hipass_yin
+17.410,,,silence_or_unvoiced
+17.420,,,silence_or_unvoiced
+17.430,,,silence_or_unvoiced
+17.440,,,silence_or_unvoiced
+17.450,,,silence_or_unvoiced
+17.460,,,silence_or_unvoiced
+17.470,,,silence_or_unvoiced
+17.480,,,silence_or_unvoiced
+17.490,,,silence_or_unvoiced
+17.500,,,silence_or_unvoiced
+17.510,,,silence_or_unvoiced
+17.520,285.89,D4,conf=0.68 hipass_yin
+17.530,285.70,D4,conf=0.63 hipass_yin
+17.540,285.65,D4,conf=0.61 hipass_yin
+17.550,,,silence_or_unvoiced
+17.560,285.15,C#4,conf=0.63 hipass_yin
+17.570,285.57,D4,conf=0.62 hipass_yin
+17.580,,,silence_or_unvoiced
+17.590,,,silence_or_unvoiced
+17.600,,,silence_or_unvoiced
+17.610,,,silence_or_unvoiced
+17.620,,,silence_or_unvoiced
+17.630,,,silence_or_unvoiced
+17.640,,,silence_or_unvoiced
+17.650,,,silence_or_unvoiced
+17.660,,,silence_or_unvoiced
+17.670,,,silence_or_unvoiced
+17.680,,,silence_or_unvoiced
+17.690,314.72,D#4,conf=0.64 hipass_yin
+17.700,,,silence_or_unvoiced
+17.710,,,silence_or_unvoiced
+17.720,,,silence_or_unvoiced
+17.730,,,silence_or_unvoiced
+17.740,,,silence_or_unvoiced
+17.750,289.08,D4,conf=0.63 hipass_yin
+17.760,285.39,D4,conf=0.75 hipass_yin
+17.770,280.93,C#4,conf=0.67 hipass_yin
+17.780,282.43,C#4,conf=0.77 hipass_yin
+17.790,281.71,C#4,conf=0.79 hipass_yin
+17.800,288.19,D4,conf=0.77 hipass_yin
+17.810,287.15,D4,conf=0.84 hipass_yin
+17.820,286.44,D4,conf=0.82 hipass_yin
+17.829,284.87,C#4,conf=0.74 hipass_yin
+17.839,291.18,D4,conf=0.74 hipass_yin
+17.849,290.98,D4,conf=0.67 hipass_yin
+17.859,284.88,C#4,conf=0.72 hipass_yin
+17.869,284.87,C#4,conf=0.76 hipass_yin
+17.879,284.92,C#4,conf=0.71 hipass_yin
+17.889,286.30,D4,conf=0.74 hipass_yin
+17.899,286.51,D4,conf=0.82 hipass_yin
+17.909,287.13,D4,conf=0.82 hipass_yin
+17.919,288.17,D4,conf=0.74 hipass_yin
+17.929,281.68,C#4,conf=0.77 hipass_yin
+17.939,281.55,C#4,conf=0.76 hipass_yin
+17.949,281.88,C#4,conf=0.71 hipass_yin
+17.959,282.09,C#4,conf=0.69 hipass_yin
+17.969,288.04,D4,conf=0.66 hipass_yin
+17.979,,,silence_or_unvoiced
+17.989,,,silence_or_unvoiced
+17.999,,,silence_or_unvoiced
+18.009,,,silence_or_unvoiced
+18.019,,,silence_or_unvoiced
+18.029,,,silence_or_unvoiced
+18.039,,,silence_or_unvoiced
+18.049,,,silence_or_unvoiced
+18.059,,,silence_or_unvoiced
+18.069,,,silence_or_unvoiced
+18.079,,,silence_or_unvoiced
+18.089,,,silence_or_unvoiced
+18.099,,,silence_or_unvoiced
+18.109,,,silence_or_unvoiced
+18.119,,,silence_or_unvoiced
+18.129,,,silence_or_unvoiced
+18.139,,,silence_or_unvoiced
+18.149,,,silence_or_unvoiced
+18.159,,,silence_or_unvoiced
+18.169,,,silence_or_unvoiced
+18.179,,,silence_or_unvoiced
+18.189,,,silence_or_unvoiced
+18.199,,,silence_or_unvoiced
+18.209,,,silence_or_unvoiced
+18.219,,,silence_or_unvoiced
+18.229,,,silence_or_unvoiced
+18.239,,,silence_or_unvoiced
+18.249,,,silence_or_unvoiced
+18.259,,,silence_or_unvoiced
+18.268,,,silence_or_unvoiced
+18.278,,,silence_or_unvoiced
+18.288,,,silence_or_unvoiced
+18.298,,,silence_or_unvoiced
+18.308,,,silence_or_unvoiced
+18.318,,,silence_or_unvoiced
+18.328,,,silence_or_unvoiced
+18.338,,,silence_or_unvoiced
+18.348,,,silence_or_unvoiced
+18.358,,,silence_or_unvoiced
+18.368,,,silence_or_unvoiced
+18.378,,,silence_or_unvoiced
+18.388,,,silence_or_unvoiced
+18.398,,,silence_or_unvoiced
+18.408,,,silence_or_unvoiced
+18.418,,,silence_or_unvoiced
+18.428,,,silence_or_unvoiced
+18.438,,,silence_or_unvoiced
+18.448,,,silence_or_unvoiced
+18.458,,,silence_or_unvoiced
+18.468,,,silence_or_unvoiced
+18.478,,,silence_or_unvoiced
+18.488,,,silence_or_unvoiced
+18.498,,,silence_or_unvoiced
+18.508,,,silence_or_unvoiced
+18.518,,,silence_or_unvoiced
+18.528,,,silence_or_unvoiced
+18.538,,,silence_or_unvoiced
+18.548,,,silence_or_unvoiced
+18.558,,,silence_or_unvoiced
+18.568,,,silence_or_unvoiced
+18.578,,,silence_or_unvoiced
+18.588,,,silence_or_unvoiced
+18.598,,,silence_or_unvoiced
+18.608,,,silence_or_unvoiced
+18.618,,,silence_or_unvoiced
+18.628,,,silence_or_unvoiced
+18.638,,,silence_or_unvoiced
+18.648,,,silence_or_unvoiced
+18.658,,,silence_or_unvoiced
+18.668,,,silence_or_unvoiced
+18.678,,,silence_or_unvoiced
+18.688,,,silence_or_unvoiced
+18.698,,,silence_or_unvoiced
+18.707,,,silence_or_unvoiced
+18.717,,,silence_or_unvoiced
+18.727,,,silence_or_unvoiced
+18.737,,,silence_or_unvoiced
+18.747,,,silence_or_unvoiced
+18.757,,,silence_or_unvoiced
+18.767,,,silence_or_unvoiced
+18.777,,,silence_or_unvoiced
+18.787,,,silence_or_unvoiced
+18.797,,,silence_or_unvoiced
+18.807,320.56,E4,conf=0.61 hipass_yin
+18.817,,,silence_or_unvoiced
+18.827,,,silence_or_unvoiced
+18.837,,,silence_or_unvoiced
+18.847,,,silence_or_unvoiced
+18.857,,,silence_or_unvoiced
+18.867,320.23,D#4,conf=0.65 hipass_yin
+18.877,,,silence_or_unvoiced
+18.887,320.19,D#4,conf=0.66 hipass_yin
+18.897,320.47,E4,conf=0.66 hipass_yin
+18.907,320.37,E4,conf=0.61 hipass_yin
+18.917,,,silence_or_unvoiced
+18.927,,,silence_or_unvoiced
+18.937,,,silence_or_unvoiced
+18.947,,,silence_or_unvoiced
+18.957,,,silence_or_unvoiced
+18.967,,,silence_or_unvoiced
+18.977,,,silence_or_unvoiced
+18.987,,,silence_or_unvoiced
+18.997,,,silence_or_unvoiced
+19.007,,,silence_or_unvoiced
+19.017,,,silence_or_unvoiced
+19.027,,,silence_or_unvoiced
+19.037,,,silence_or_unvoiced
+19.047,,,silence_or_unvoiced
+19.057,,,silence_or_unvoiced
+19.067,,,silence_or_unvoiced
+19.077,,,silence_or_unvoiced
+19.087,,,silence_or_unvoiced
+19.097,,,silence_or_unvoiced
+19.107,,,silence_or_unvoiced
+19.117,,,silence_or_unvoiced
+19.127,,,silence_or_unvoiced
+19.137,,,silence_or_unvoiced
+19.146,,,silence_or_unvoiced
+19.156,,,silence_or_unvoiced
+19.166,,,silence_or_unvoiced
+19.176,,,silence_or_unvoiced
+19.186,,,silence_or_unvoiced
+19.196,,,silence_or_unvoiced
+19.206,,,silence_or_unvoiced
+19.216,,,silence_or_unvoiced
+19.226,,,silence_or_unvoiced
+19.236,,,silence_or_unvoiced
+19.246,,,silence_or_unvoiced
+19.256,305.65,D#4,conf=0.68 hipass_yin
+19.266,305.78,D#4,conf=0.68 hipass_yin
+19.276,306.65,D#4,conf=0.71 hipass_yin
+19.286,,,silence_or_unvoiced
+19.296,,,silence_or_unvoiced
+19.306,,,silence_or_unvoiced
+19.316,,,silence_or_unvoiced
+19.326,,,silence_or_unvoiced
+19.336,,,silence_or_unvoiced
+19.346,,,silence_or_unvoiced
+19.356,,,silence_or_unvoiced
+19.366,,,silence_or_unvoiced
+19.376,,,silence_or_unvoiced
+19.386,,,silence_or_unvoiced
+19.396,,,silence_or_unvoiced
+19.406,,,silence_or_unvoiced
+19.416,,,silence_or_unvoiced
+19.426,,,silence_or_unvoiced
+19.436,,,silence_or_unvoiced
+19.446,,,silence_or_unvoiced
+19.456,,,silence_or_unvoiced
+19.466,,,silence_or_unvoiced
+19.476,,,silence_or_unvoiced
+19.486,,,silence_or_unvoiced
+19.496,,,silence_or_unvoiced
+19.506,,,silence_or_unvoiced
+19.516,,,silence_or_unvoiced
+19.526,,,silence_or_unvoiced
+19.536,,,silence_or_unvoiced
+19.546,,,silence_or_unvoiced
+19.556,,,silence_or_unvoiced
+19.566,,,silence_or_unvoiced
+19.576,,,silence_or_unvoiced
+19.585,,,silence_or_unvoiced
+19.595,,,silence_or_unvoiced
+19.605,,,silence_or_unvoiced
+19.615,,,silence_or_unvoiced
+19.625,,,silence_or_unvoiced
+19.635,,,silence_or_unvoiced
+19.645,,,silence_or_unvoiced
+19.655,,,silence_or_unvoiced
+19.665,,,silence_or_unvoiced
+19.675,,,silence_or_unvoiced
+19.685,,,silence_or_unvoiced
+19.695,,,silence_or_unvoiced
+19.705,,,silence_or_unvoiced
+19.715,,,silence_or_unvoiced
+19.725,,,silence_or_unvoiced
+19.735,,,silence_or_unvoiced
+19.745,,,silence_or_unvoiced
+19.755,339.45,F4,conf=0.60 hipass_yin
+19.765,,,silence_or_unvoiced
+19.775,,,silence_or_unvoiced
+19.785,,,silence_or_unvoiced
+19.795,359.24,F4,conf=0.73 hipass_yin
+19.805,367.61,F#4,conf=0.78 hipass_yin
+19.815,375.44,F#4,conf=0.80 hipass_yin
+19.825,383.47,G4,conf=0.74 hipass_yin
+19.835,380.73,F#4,conf=0.78 hipass_yin
+19.845,379.02,F#4,conf=0.78 hipass_yin
+19.855,378.33,F#4,conf=0.77 hipass_yin
+19.865,378.82,F#4,conf=0.75 hipass_yin
+19.875,379.77,F#4,conf=0.78 hipass_yin
+19.885,380.70,F#4,conf=0.78 hipass_yin
+19.895,381.84,G4,conf=0.76 hipass_yin
+19.905,370.79,F#4,conf=0.73 hipass_yin
+19.915,383.47,G4,conf=0.72 hipass_yin
+19.925,370.60,F#4,conf=0.70 hipass_yin
+19.935,380.67,F#4,conf=0.65 hipass_yin
+19.945,,,silence_or_unvoiced
+19.955,,,silence_or_unvoiced
+19.965,,,silence_or_unvoiced
+19.975,,,silence_or_unvoiced
+19.985,,,silence_or_unvoiced
+19.995,,,silence_or_unvoiced
+20.005,,,silence_or_unvoiced
+20.015,,,silence_or_unvoiced
+20.024,,,silence_or_unvoiced
+20.034,,,silence_or_unvoiced
+20.044,,,silence_or_unvoiced
+20.054,,,silence_or_unvoiced
+20.064,,,silence_or_unvoiced
+20.074,,,silence_or_unvoiced
+20.084,,,silence_or_unvoiced
+20.094,,,silence_or_unvoiced
+20.104,,,silence_or_unvoiced
+20.114,,,silence_or_unvoiced
+20.124,,,silence_or_unvoiced
+20.134,,,silence_or_unvoiced
+20.144,,,silence_or_unvoiced
+20.154,,,silence_or_unvoiced
+20.164,,,silence_or_unvoiced
+20.174,,,silence_or_unvoiced
+20.184,,,silence_or_unvoiced
+20.194,,,silence_or_unvoiced
+20.204,,,silence_or_unvoiced
+20.214,,,silence_or_unvoiced
+20.224,,,silence_or_unvoiced
+20.234,,,silence_or_unvoiced
+20.244,,,silence_or_unvoiced
+20.254,,,silence_or_unvoiced
+20.264,,,silence_or_unvoiced
+20.274,,,silence_or_unvoiced
+20.284,,,silence_or_unvoiced
+20.294,,,silence_or_unvoiced
+20.304,,,silence_or_unvoiced
+20.314,285.86,D4,conf=0.63 hipass_yin
+20.324,287.15,D4,conf=0.69 hipass_yin
+20.334,287.46,D4,conf=0.67 hipass_yin
+20.344,287.86,D4,conf=0.66 hipass_yin
+20.354,281.06,C#4,conf=0.69 hipass_yin
+20.364,281.41,C#4,conf=0.67 hipass_yin
+20.374,288.22,D4,conf=0.67 hipass_yin
+20.384,287.98,D4,conf=0.63 hipass_yin
+20.394,281.01,C#4,conf=0.64 hipass_yin
+20.404,281.38,C#4,conf=0.65 hipass_yin
+20.414,281.83,C#4,conf=0.67 hipass_yin
+20.424,,,silence_or_unvoiced
+20.434,,,silence_or_unvoiced
+20.444,,,silence_or_unvoiced
+20.454,,,silence_or_unvoiced
+20.463,,,silence_or_unvoiced
+20.473,,,silence_or_unvoiced
+20.483,281.05,C#4,conf=0.68 hipass_yin
+20.493,287.83,D4,conf=0.71 hipass_yin
+20.503,287.72,D4,conf=0.75 hipass_yin
+20.513,281.18,C#4,conf=0.77 hipass_yin
+20.523,281.78,C#4,conf=0.83 hipass_yin
+20.533,282.01,C#4,conf=0.82 hipass_yin
+20.543,281.87,C#4,conf=0.77 hipass_yin
+20.553,281.70,C#4,conf=0.68 hipass_yin
+20.563,281.20,C#4,conf=0.72 hipass_yin
+20.573,287.90,D4,conf=0.71 hipass_yin
+20.583,280.92,C#4,conf=0.72 hipass_yin
+20.593,287.36,D4,conf=0.75 hipass_yin
+20.603,,,silence_or_unvoiced
+20.613,,,silence_or_unvoiced
+20.623,,,silence_or_unvoiced
+20.633,,,silence_or_unvoiced
+20.643,,,silence_or_unvoiced
+20.653,,,silence_or_unvoiced
+20.663,,,silence_or_unvoiced
+20.673,,,silence_or_unvoiced
+20.683,,,silence_or_unvoiced
+20.693,,,silence_or_unvoiced
+20.703,,,silence_or_unvoiced
+20.713,,,silence_or_unvoiced
+20.723,,,silence_or_unvoiced
+20.733,,,silence_or_unvoiced
+20.743,,,silence_or_unvoiced
+20.753,,,silence_or_unvoiced
+20.763,,,silence_or_unvoiced
+20.773,,,silence_or_unvoiced
+20.783,,,silence_or_unvoiced
+20.793,,,silence_or_unvoiced
+20.803,,,silence_or_unvoiced
+20.813,,,silence_or_unvoiced
+20.823,,,silence_or_unvoiced
+20.833,,,silence_or_unvoiced
+20.843,,,silence_or_unvoiced
+20.853,,,silence_or_unvoiced
+20.863,,,silence_or_unvoiced
+20.873,285.68,D4,conf=0.65 hipass_yin
+20.883,286.32,D4,conf=0.79 hipass_yin
+20.893,287.66,D4,conf=0.79 hipass_yin
+20.902,281.15,C#4,conf=0.76 hipass_yin
+20.912,281.76,C#4,conf=0.81 hipass_yin
+20.922,282.13,C#4,conf=0.82 hipass_yin
+20.932,282.46,C#4,conf=0.76 hipass_yin
+20.942,282.05,C#4,conf=0.69 hipass_yin
+20.952,281.39,C#4,conf=0.75 hipass_yin
+20.962,287.61,D4,conf=0.79 hipass_yin
+20.972,285.76,D4,conf=0.81 hipass_yin
+20.982,291.25,D4,conf=0.75 hipass_yin
+20.992,289.42,D4,conf=0.66 hipass_yin
+21.002,,,silence_or_unvoiced
+21.012,300.68,D4,conf=0.61 hipass_yin
+21.022,,,silence_or_unvoiced
+21.032,,,silence_or_unvoiced
+21.042,290.28,D4,conf=0.62 hipass_yin
+21.052,,,silence_or_unvoiced
+21.062,281.78,C#4,conf=0.67 hipass_yin
+21.072,282.03,C#4,conf=0.74 hipass_yin
+21.082,282.55,C#4,conf=0.79 hipass_yin
+21.092,281.77,C#4,conf=0.80 hipass_yin
+21.102,281.34,C#4,conf=0.77 hipass_yin
+21.112,281.59,C#4,conf=0.67 hipass_yin
+21.122,,,silence_or_unvoiced
+21.132,,,silence_or_unvoiced
+21.142,,,silence_or_unvoiced
+21.152,282.46,C#4,conf=0.67 hipass_yin
+21.162,,,silence_or_unvoiced
+21.172,,,silence_or_unvoiced
+21.182,,,silence_or_unvoiced
+21.192,,,silence_or_unvoiced
+21.202,,,silence_or_unvoiced
+21.212,,,silence_or_unvoiced
+21.222,,,silence_or_unvoiced
+21.232,,,silence_or_unvoiced
+21.242,,,silence_or_unvoiced
+21.252,,,silence_or_unvoiced
+21.262,,,silence_or_unvoiced
+21.272,,,silence_or_unvoiced
+21.282,,,silence_or_unvoiced
+21.292,,,silence_or_unvoiced
+21.302,,,silence_or_unvoiced
+21.312,,,silence_or_unvoiced
+21.322,,,silence_or_unvoiced
+21.332,,,silence_or_unvoiced
+21.341,,,silence_or_unvoiced
+21.351,,,silence_or_unvoiced
+21.361,,,silence_or_unvoiced
+21.371,,,silence_or_unvoiced
+21.381,,,silence_or_unvoiced
+21.391,,,silence_or_unvoiced
+21.401,,,silence_or_unvoiced
+21.411,,,silence_or_unvoiced
+21.421,285.97,D4,conf=0.66 hipass_yin
+21.431,,,silence_or_unvoiced
+21.441,,,silence_or_unvoiced
+21.451,,,silence_or_unvoiced
+21.461,282.02,C#4,conf=0.69 hipass_yin
+21.471,282.50,C#4,conf=0.69 hipass_yin
+21.481,282.47,C#4,conf=0.71 hipass_yin
+21.491,282.68,C#4,conf=0.71 hipass_yin
+21.501,,,silence_or_unvoiced
+21.511,,,silence_or_unvoiced
+21.521,,,silence_or_unvoiced
+21.531,,,silence_or_unvoiced
+21.541,,,silence_or_unvoiced
+21.551,,,silence_or_unvoiced
+21.561,,,silence_or_unvoiced
+21.571,,,silence_or_unvoiced
+21.581,,,silence_or_unvoiced
+21.591,,,silence_or_unvoiced
+21.601,,,silence_or_unvoiced
+21.611,,,silence_or_unvoiced
+21.621,,,silence_or_unvoiced
+21.631,,,silence_or_unvoiced
+21.641,,,silence_or_unvoiced
+21.651,,,silence_or_unvoiced
+21.661,,,silence_or_unvoiced
+21.671,,,silence_or_unvoiced
+21.681,,,silence_or_unvoiced
+21.691,,,silence_or_unvoiced
+21.701,,,silence_or_unvoiced
+21.711,,,silence_or_unvoiced
+21.721,,,silence_or_unvoiced
+21.731,,,silence_or_unvoiced
+21.741,,,silence_or_unvoiced
+21.751,,,silence_or_unvoiced
+21.761,,,silence_or_unvoiced
+21.771,,,silence_or_unvoiced
+21.780,,,silence_or_unvoiced
+21.790,,,silence_or_unvoiced
+21.800,,,silence_or_unvoiced
+21.810,,,silence_or_unvoiced
+21.820,,,silence_or_unvoiced
+21.830,,,silence_or_unvoiced
+21.840,,,silence_or_unvoiced
+21.850,,,silence_or_unvoiced
+21.860,,,silence_or_unvoiced
+21.870,,,silence_or_unvoiced
+21.880,,,silence_or_unvoiced
+21.890,,,silence_or_unvoiced
+21.900,,,silence_or_unvoiced
+21.910,,,silence_or_unvoiced
+21.920,,,silence_or_unvoiced
+21.930,,,silence_or_unvoiced
+21.940,,,silence_or_unvoiced
+21.950,,,silence_or_unvoiced
+21.960,,,silence_or_unvoiced
+21.970,,,silence_or_unvoiced
+21.980,,,silence_or_unvoiced
+21.990,282.20,C#4,conf=0.67 hipass_yin
+22.000,281.59,C#4,conf=0.76 hipass_yin
+22.010,286.72,D4,conf=0.80 hipass_yin
+22.020,284.53,C#4,conf=0.81 hipass_yin
+22.030,285.26,C#4,conf=0.84 hipass_yin
+22.040,285.99,D4,conf=0.77 hipass_yin
+22.050,,,silence_or_unvoiced
+22.060,,,silence_or_unvoiced
+22.070,289.18,D4,conf=0.61 hipass_yin
+22.080,,,silence_or_unvoiced
+22.090,,,silence_or_unvoiced
+22.100,,,silence_or_unvoiced
+22.110,313.18,D#4,conf=0.68 hipass_yin
+22.120,318.80,D#4,conf=0.78 hipass_yin
+22.130,318.46,D#4,conf=0.79 hipass_yin
+22.140,318.48,D#4,conf=0.77 hipass_yin
+22.150,318.81,D#4,conf=0.78 hipass_yin
+22.160,320.17,D#4,conf=0.80 hipass_yin
+22.170,313.93,D#4,conf=0.82 hipass_yin
+22.180,314.94,D#4,conf=0.80 hipass_yin
+22.190,315.11,D#4,conf=0.75 hipass_yin
+22.200,314.40,D#4,conf=0.77 hipass_yin
+22.210,313.96,D#4,conf=0.66 hipass_yin
+22.220,,,silence_or_unvoiced
+22.229,,,silence_or_unvoiced
+22.239,,,silence_or_unvoiced
+22.249,,,silence_or_unvoiced
+22.259,,,silence_or_unvoiced
+22.269,,,silence_or_unvoiced
+22.279,,,silence_or_unvoiced
+22.289,,,silence_or_unvoiced
+22.299,,,silence_or_unvoiced
+22.309,,,silence_or_unvoiced
+22.319,,,silence_or_unvoiced
+22.329,,,silence_or_unvoiced
+22.339,,,silence_or_unvoiced
+22.349,,,silence_or_unvoiced
+22.359,,,silence_or_unvoiced
+22.369,,,silence_or_unvoiced
+22.379,,,silence_or_unvoiced
+22.389,,,silence_or_unvoiced
+22.399,,,silence_or_unvoiced
+22.409,,,silence_or_unvoiced
+22.419,,,silence_or_unvoiced
+22.429,,,silence_or_unvoiced
+22.439,,,silence_or_unvoiced
+22.449,,,silence_or_unvoiced
+22.459,,,silence_or_unvoiced
+22.469,,,silence_or_unvoiced
+22.479,,,silence_or_unvoiced
+22.489,,,silence_or_unvoiced
+22.499,,,silence_or_unvoiced
+22.509,,,silence_or_unvoiced
+22.519,,,silence_or_unvoiced
+22.529,,,silence_or_unvoiced
+22.539,,,silence_or_unvoiced
+22.549,,,silence_or_unvoiced
+22.559,,,silence_or_unvoiced
+22.569,,,silence_or_unvoiced
+22.579,,,silence_or_unvoiced
+22.589,,,silence_or_unvoiced
+22.599,236.93,A#3,conf=0.66 hipass_yin
+22.609,236.92,A#3,conf=0.60 hipass_yin
+22.619,,,silence_or_unvoiced
+22.629,,,silence_or_unvoiced
+22.639,236.36,A#3,conf=0.72 hipass_yin
+22.649,236.01,A#3,conf=0.61 hipass_yin
+22.659,,,silence_or_unvoiced
+22.668,,,silence_or_unvoiced
+22.678,,,silence_or_unvoiced
+22.688,,,silence_or_unvoiced
+22.698,,,silence_or_unvoiced
+22.708,,,silence_or_unvoiced
+22.718,,,silence_or_unvoiced
+22.728,,,silence_or_unvoiced
+22.738,,,silence_or_unvoiced
+22.748,,,silence_or_unvoiced
+22.758,,,silence_or_unvoiced
+22.768,,,silence_or_unvoiced
+22.778,,,silence_or_unvoiced
+22.788,,,silence_or_unvoiced
+22.798,,,silence_or_unvoiced
+22.808,,,silence_or_unvoiced
+22.818,,,silence_or_unvoiced
+22.828,,,silence_or_unvoiced
+22.838,,,silence_or_unvoiced
+22.848,,,silence_or_unvoiced
+22.858,,,silence_or_unvoiced
+22.868,,,silence_or_unvoiced
+22.878,,,silence_or_unvoiced
+22.888,,,silence_or_unvoiced
+22.898,,,silence_or_unvoiced
+22.908,,,silence_or_unvoiced
+22.918,,,silence_or_unvoiced
+22.928,,,silence_or_unvoiced
+22.938,,,silence_or_unvoiced
+22.948,,,silence_or_unvoiced
+22.958,237.67,A#3,conf=0.69 hipass_yin
+22.968,233.49,A#3,conf=0.74 hipass_yin
+22.978,233.58,A#3,conf=0.76 hipass_yin
+22.988,233.49,A#3,conf=0.72 hipass_yin
+22.998,237.84,A#3,conf=0.75 hipass_yin
+23.008,237.21,A#3,conf=0.73 hipass_yin
+23.018,236.57,A#3,conf=0.70 hipass_yin
+23.028,236.23,A#3,conf=0.63 hipass_yin
+23.038,,,silence_or_unvoiced
+23.048,,,silence_or_unvoiced
+23.058,,,silence_or_unvoiced
+23.068,,,silence_or_unvoiced
+23.078,,,silence_or_unvoiced
+23.088,,,silence_or_unvoiced
+23.098,,,silence_or_unvoiced
+23.107,,,silence_or_unvoiced
+23.117,,,silence_or_unvoiced
+23.127,,,silence_or_unvoiced
+23.137,236.37,A#3,conf=0.62 hipass_yin
+23.147,,,silence_or_unvoiced
+23.157,237.47,A#3,conf=0.65 hipass_yin
+23.167,,,silence_or_unvoiced
+23.177,,,silence_or_unvoiced
+23.187,,,silence_or_unvoiced
+23.197,,,silence_or_unvoiced
+23.207,,,silence_or_unvoiced
+23.217,,,silence_or_unvoiced
+23.227,,,silence_or_unvoiced
+23.237,,,silence_or_unvoiced
+23.247,,,silence_or_unvoiced
+23.257,,,silence_or_unvoiced
+23.267,,,silence_or_unvoiced
+23.277,,,silence_or_unvoiced
+23.287,,,silence_or_unvoiced
+23.297,,,silence_or_unvoiced
+23.307,,,silence_or_unvoiced
+23.317,,,silence_or_unvoiced
+23.327,,,silence_or_unvoiced
+23.337,,,silence_or_unvoiced
+23.347,,,silence_or_unvoiced
+23.357,207.32,G#3,conf=0.66 hipass_yin
+23.367,207.33,G#3,conf=0.64 hipass_yin
+23.377,,,silence_or_unvoiced
+23.387,,,silence_or_unvoiced
+23.397,,,silence_or_unvoiced
+23.407,,,silence_or_unvoiced
+23.417,,,silence_or_unvoiced
+23.427,,,silence_or_unvoiced
+23.437,,,silence_or_unvoiced
+23.447,,,silence_or_unvoiced
+23.457,,,silence_or_unvoiced
+23.467,,,silence_or_unvoiced
+23.477,,,silence_or_unvoiced
+23.487,,,silence_or_unvoiced
+23.497,,,silence_or_unvoiced
+23.507,,,silence_or_unvoiced
+23.517,,,silence_or_unvoiced
+23.527,,,silence_or_unvoiced
+23.537,,,silence_or_unvoiced
+23.546,,,silence_or_unvoiced
+23.556,,,silence_or_unvoiced
+23.566,,,silence_or_unvoiced
+23.576,,,silence_or_unvoiced
+23.586,,,silence_or_unvoiced
+23.596,,,silence_or_unvoiced
+23.606,,,silence_or_unvoiced
+23.616,,,silence_or_unvoiced
+23.626,,,silence_or_unvoiced
+23.636,,,silence_or_unvoiced
+23.646,,,silence_or_unvoiced
+23.656,,,silence_or_unvoiced
+23.666,,,silence_or_unvoiced
+23.676,,,silence_or_unvoiced
+23.686,,,silence_or_unvoiced
+23.696,,,silence_or_unvoiced
+23.706,,,silence_or_unvoiced
+23.716,251.55,B3,conf=0.61 hipass_yin
+23.726,247.20,B3,conf=0.74 hipass_yin
+23.736,246.84,B3,conf=0.75 hipass_yin
+23.746,250.93,B3,conf=0.72 hipass_yin
+23.756,254.61,C4,conf=0.77 hipass_yin
+23.766,253.30,B3,conf=0.75 hipass_yin
+23.776,256.11,C4,conf=0.62 hipass_yin
+23.786,,,silence_or_unvoiced
+23.796,,,silence_or_unvoiced
+23.806,,,silence_or_unvoiced
+23.816,,,silence_or_unvoiced
+23.826,,,silence_or_unvoiced
+23.836,,,silence_or_unvoiced
+23.846,,,silence_or_unvoiced
+23.856,,,silence_or_unvoiced
+23.866,,,silence_or_unvoiced
+23.876,,,silence_or_unvoiced
+23.886,,,silence_or_unvoiced
+23.896,,,silence_or_unvoiced
+23.906,,,silence_or_unvoiced
+23.916,,,silence_or_unvoiced
+23.926,,,silence_or_unvoiced
+23.936,,,silence_or_unvoiced
+23.946,,,silence_or_unvoiced
+23.956,,,silence_or_unvoiced
+23.966,,,silence_or_unvoiced
+23.976,,,silence_or_unvoiced
+23.985,,,silence_or_unvoiced
+23.995,,,silence_or_unvoiced
+24.005,,,silence_or_unvoiced
+24.015,250.82,B3,conf=0.66 hipass_yin
+24.025,,,silence_or_unvoiced
+24.035,,,silence_or_unvoiced
+24.045,,,silence_or_unvoiced
+24.055,252.09,B3,conf=0.62 hipass_yin
+24.065,255.30,C4,conf=0.65 hipass_yin
+24.075,256.03,C4,conf=0.62 hipass_yin
+24.085,257.88,C4,conf=0.61 hipass_yin
+24.095,253.91,B3,conf=0.67 hipass_yin
+24.105,249.51,B3,conf=0.71 hipass_yin
+24.115,250.30,B3,conf=0.66 hipass_yin
+24.125,250.33,B3,conf=0.71 hipass_yin
+24.135,250.66,B3,conf=0.63 hipass_yin
+24.145,,,silence_or_unvoiced
+24.155,,,silence_or_unvoiced
+24.165,,,silence_or_unvoiced
+24.175,,,silence_or_unvoiced
+24.185,,,silence_or_unvoiced
+24.195,,,silence_or_unvoiced
+24.205,,,silence_or_unvoiced
+24.215,,,silence_or_unvoiced
+24.225,,,silence_or_unvoiced
+24.235,,,silence_or_unvoiced
+24.245,,,silence_or_unvoiced
+24.255,,,silence_or_unvoiced
+24.265,,,silence_or_unvoiced
+24.275,,,silence_or_unvoiced
+24.285,,,silence_or_unvoiced
+24.295,,,silence_or_unvoiced
+24.305,,,silence_or_unvoiced
+24.315,379.08,F#4,conf=0.64 hipass_yin
+24.325,249.31,B3,conf=0.73 hipass_yin
+24.335,254.73,C4,conf=0.66 hipass_yin
+24.345,,,silence_or_unvoiced
+24.355,,,silence_or_unvoiced
+24.365,187.70,F#3,conf=0.64 hipass_yin
+24.375,190.21,F#3,conf=0.65 hipass_yin
+24.385,,,silence_or_unvoiced
+24.395,,,silence_or_unvoiced
+24.405,,,silence_or_unvoiced
+24.415,,,silence_or_unvoiced
+24.424,,,silence_or_unvoiced
+24.434,,,silence_or_unvoiced
+24.444,,,silence_or_unvoiced
+24.454,,,silence_or_unvoiced
+24.464,,,silence_or_unvoiced
+24.474,,,silence_or_unvoiced
+24.484,,,silence_or_unvoiced
+24.494,,,silence_or_unvoiced
+24.504,,,silence_or_unvoiced
+24.514,,,silence_or_unvoiced
+24.524,,,silence_or_unvoiced
+24.534,,,silence_or_unvoiced
+24.544,,,silence_or_unvoiced
+24.554,,,silence_or_unvoiced
+24.564,,,silence_or_unvoiced
+24.574,,,silence_or_unvoiced
+24.584,,,silence_or_unvoiced
+24.594,,,silence_or_unvoiced
+24.604,,,silence_or_unvoiced
+24.614,,,silence_or_unvoiced
+24.624,,,silence_or_unvoiced
+24.634,,,silence_or_unvoiced
+24.644,,,silence_or_unvoiced
+24.654,190.12,F#3,conf=0.71 hipass_yin
+24.664,190.05,F#3,conf=0.71 hipass_yin
+24.674,190.46,G3,conf=0.64 hipass_yin
+24.684,,,silence_or_unvoiced
+24.694,194.76,G3,conf=0.67 hipass_yin
+24.704,196.63,G3,conf=0.64 hipass_yin
+24.714,,,silence_or_unvoiced
+24.724,,,silence_or_unvoiced
+24.734,,,silence_or_unvoiced
+24.744,,,silence_or_unvoiced
+24.754,,,silence_or_unvoiced
+24.764,,,silence_or_unvoiced
+24.774,,,silence_or_unvoiced
+24.784,215.86,A3,conf=0.60 hipass_yin
+24.794,,,silence_or_unvoiced
+24.804,,,silence_or_unvoiced
+24.814,214.19,A3,conf=0.62 hipass_yin
+24.824,,,silence_or_unvoiced
+24.834,,,silence_or_unvoiced
+24.844,214.83,A3,conf=0.61 hipass_yin
+24.854,,,silence_or_unvoiced
+24.863,,,silence_or_unvoiced
+24.873,,,silence_or_unvoiced
+24.883,,,silence_or_unvoiced
+24.893,,,silence_or_unvoiced
+24.903,,,silence_or_unvoiced
+24.913,,,silence_or_unvoiced
+24.923,,,silence_or_unvoiced
+24.933,,,silence_or_unvoiced
+24.943,,,silence_or_unvoiced
+24.953,,,silence_or_unvoiced
+24.963,,,silence_or_unvoiced
+24.973,,,silence_or_unvoiced
+24.983,254.53,C4,conf=0.65 hipass_yin
+24.993,254.23,C4,conf=0.61 hipass_yin
+25.003,,,silence_or_unvoiced
+25.013,,,silence_or_unvoiced
+25.023,,,silence_or_unvoiced
+25.033,,,silence_or_unvoiced
+25.043,,,silence_or_unvoiced
+25.053,,,silence_or_unvoiced
+25.063,,,silence_or_unvoiced
+25.073,,,silence_or_unvoiced
+25.083,,,silence_or_unvoiced
+25.093,,,silence_or_unvoiced
+25.103,,,silence_or_unvoiced
+25.113,,,silence_or_unvoiced
+25.123,,,silence_or_unvoiced
+25.133,,,silence_or_unvoiced
+25.143,277.81,C#4,conf=0.62 hipass_yin
+25.153,,,silence_or_unvoiced
+25.163,,,silence_or_unvoiced
+25.173,,,silence_or_unvoiced
+25.183,,,silence_or_unvoiced
+25.193,,,silence_or_unvoiced
+25.203,,,silence_or_unvoiced
+25.213,,,silence_or_unvoiced
+25.223,283.35,C#4,conf=0.72 hipass_yin
+25.233,283.58,C#4,conf=0.75 hipass_yin
+25.243,566.26,C#5,conf=0.85 hipass_yin
+25.253,566.72,C#5,conf=0.77 hipass_yin
+25.263,,,silence_or_unvoiced
+25.273,,,silence_or_unvoiced
+25.283,,,silence_or_unvoiced
+25.293,,,silence_or_unvoiced
+25.302,,,silence_or_unvoiced
+25.312,,,silence_or_unvoiced
+25.322,,,silence_or_unvoiced
+25.332,,,silence_or_unvoiced
+25.342,299.26,D4,conf=0.61 hipass_yin
+25.352,,,silence_or_unvoiced
+25.362,,,silence_or_unvoiced
+25.372,,,silence_or_unvoiced
+25.382,297.50,D4,conf=0.69 hipass_yin
+25.392,,,silence_or_unvoiced
+25.402,,,silence_or_unvoiced
+25.412,,,silence_or_unvoiced
+25.422,,,silence_or_unvoiced
+25.432,,,silence_or_unvoiced
+25.442,305.01,D#4,conf=0.63 hipass_yin
+25.452,311.76,D#4,conf=0.65 hipass_yin
+25.462,309.39,D#4,conf=0.60 hipass_yin
+25.472,314.37,D#4,conf=0.62 hipass_yin
+25.482,,,silence_or_unvoiced
+25.492,,,silence_or_unvoiced
+25.502,319.15,D#4,conf=0.61 hipass_yin
+25.512,318.64,D#4,conf=0.74 hipass_yin
+25.522,318.52,D#4,conf=0.76 hipass_yin
+25.532,318.37,D#4,conf=0.78 hipass_yin
+25.542,318.69,D#4,conf=0.77 hipass_yin
+25.552,319.20,D#4,conf=0.67 hipass_yin
+25.562,319.76,D#4,conf=0.76 hipass_yin
+25.572,320.05,D#4,conf=0.80 hipass_yin
+25.582,320.03,D#4,conf=0.77 hipass_yin
+25.592,320.73,E4,conf=0.76 hipass_yin
+25.602,320.53,E4,conf=0.82 hipass_yin
+25.612,320.51,E4,conf=0.80 hipass_yin
+25.622,319.99,D#4,conf=0.75 hipass_yin
+25.632,319.48,D#4,conf=0.83 hipass_yin
+25.642,319.14,D#4,conf=0.79 hipass_yin
+25.652,319.14,D#4,conf=0.88 hipass_yin
+25.662,319.16,D#4,conf=0.87 hipass_yin
+25.672,319.50,D#4,conf=0.83 hipass_yin
+25.682,319.58,D#4,conf=0.83 hipass_yin
+25.692,320.23,D#4,conf=0.74 hipass_yin
+25.702,321.40,E4,conf=0.73 hipass_yin
+25.712,313.28,D#4,conf=0.75 hipass_yin
+25.722,314.14,D#4,conf=0.78 hipass_yin
+25.732,314.72,D#4,conf=0.74 hipass_yin
+25.741,314.55,D#4,conf=0.69 hipass_yin
+25.751,314.21,D#4,conf=0.73 hipass_yin
+25.761,313.66,D#4,conf=0.73 hipass_yin
+25.771,313.46,D#4,conf=0.74 hipass_yin
+25.781,313.71,D#4,conf=0.72 hipass_yin
+25.791,314.06,D#4,conf=0.66 hipass_yin
+25.801,314.40,D#4,conf=0.74 hipass_yin
+25.811,314.70,D#4,conf=0.76 hipass_yin
+25.821,314.69,D#4,conf=0.74 hipass_yin
+25.831,316.01,D#4,conf=0.73 hipass_yin
+25.841,316.91,D#4,conf=0.64 hipass_yin
+25.851,310.10,D#4,conf=0.70 hipass_yin
+25.861,,,silence_or_unvoiced
+25.871,,,silence_or_unvoiced
+25.881,,,silence_or_unvoiced
+25.891,,,silence_or_unvoiced
+25.901,,,silence_or_unvoiced
+25.911,284.82,C#4,conf=0.69 hipass_yin
+25.921,287.46,D4,conf=0.66 hipass_yin
+25.931,,,silence_or_unvoiced
+25.941,285.50,D4,conf=0.61 hipass_yin
+25.951,290.70,D4,conf=0.68 hipass_yin
+25.961,284.78,C#4,conf=0.67 hipass_yin
+25.971,284.77,C#4,conf=0.61 hipass_yin
+25.981,,,silence_or_unvoiced
+25.991,,,silence_or_unvoiced
+26.001,,,silence_or_unvoiced
+26.011,277.95,C#4,conf=0.63 hipass_yin
+26.021,,,silence_or_unvoiced
+26.031,,,silence_or_unvoiced
+26.041,,,silence_or_unvoiced
+26.051,,,silence_or_unvoiced
+26.061,,,silence_or_unvoiced
+26.071,,,silence_or_unvoiced
+26.081,,,silence_or_unvoiced
+26.091,,,silence_or_unvoiced
+26.101,,,silence_or_unvoiced
+26.111,,,silence_or_unvoiced
+26.121,,,silence_or_unvoiced
+26.131,,,silence_or_unvoiced
+26.141,,,silence_or_unvoiced
+26.151,,,silence_or_unvoiced
+26.161,,,silence_or_unvoiced
+26.171,,,silence_or_unvoiced
+26.180,,,silence_or_unvoiced
+26.190,,,silence_or_unvoiced
+26.200,,,silence_or_unvoiced
+26.210,,,silence_or_unvoiced
+26.220,,,silence_or_unvoiced
+26.230,,,silence_or_unvoiced
+26.240,,,silence_or_unvoiced
+26.250,,,silence_or_unvoiced
+26.260,,,silence_or_unvoiced
+26.270,,,silence_or_unvoiced
+26.280,,,silence_or_unvoiced
+26.290,,,silence_or_unvoiced
+26.300,,,silence_or_unvoiced
+26.310,,,silence_or_unvoiced
+26.320,,,silence_or_unvoiced
+26.330,,,silence_or_unvoiced
+26.340,,,silence_or_unvoiced
